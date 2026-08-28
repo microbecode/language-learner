@@ -34,7 +34,11 @@ Commits are attributed to `microbecode` /
 `20242241+microbecode@users.noreply.github.com`, set in this repo's local
 config so it holds regardless of the global identity.
 
-Nothing is committed automatically.
+Completed work is committed and pushed without asking first — the global
+"never auto-commit" rule does not apply to this repo. Destructive or
+irreversible operations still need confirmation: force-push, history rewrite,
+amending an already-pushed commit, deleting branches or tags, or changing
+repository settings.
 
 ## MCP servers
 
