@@ -1,6 +1,19 @@
 <script lang="ts">
+  import './app.css'
+  import { AppStore } from './lib/app/store.svelte'
+  import Home from './components/Home.svelte'
+  import Review from './components/Review.svelte'
+  import Summary from './components/Summary.svelte'
+
+  const app = new AppStore()
 </script>
 
 <main>
-  <h1>HSK 1 Drill</h1>
+  {#if app.screen === 'home'}
+    <Home {app} />
+  {:else if app.screen === 'review'}
+    <Review {app} />
+  {:else if app.screen === 'summary'}
+    <Summary {app} />
+  {/if}
 </main>
