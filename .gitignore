@@ -33,3 +33,10 @@ coverage/
 # Logs
 *.log
 npm-debug.log*
+
+# Vitest
+.vitest/
+
+# Playwright
+/test-results/
+/playwright-report/
