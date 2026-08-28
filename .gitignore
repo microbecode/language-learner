@@ -16,6 +16,9 @@ build/
 # Superpowers working artifacts (specs/plans) — local only
 /superpowers/
 
+# Subagent-driven-development scratch (ledger, briefs, review packages)
+/.superpowers/
+
 # Branch continuity notes — local only
 BRANCH-NOTES.md
 
