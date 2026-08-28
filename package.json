@@ -8,14 +8,15 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "check": "tsc --noEmit",
+    "check": "tsc --noEmit && svelte-check --tsconfig ./tsconfig.json",
     "build:deck": "node scripts/build-deck.ts"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "7.3.0",
     "@types/node": "24.13.3",
     "svelte": "5.56.10",
-    "typescript": "7.0.2",
+    "svelte-check": "4.7.6",
+    "typescript": "5.9.3",
     "vite": "8.2.2",
     "vitest": "4.1.11"
   }
