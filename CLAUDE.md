@@ -19,10 +19,16 @@ GitHub authentication comes from direnv, not from `gh auth login`:
   `~/.config/gh/hosts.yml` is empty — so `GH_TOKEN` is the only credential
   source for the `gh` CLI and the GitHub API. In a shell where direnv has not
   loaded, `gh` fails. Check with `gh api user`, which prints `microbecode`.
-- `origin` is `git@github.com:microbecode/language-learner.git` over SSH, so
-  fetch and push use SSH keys rather than the token.
+- `origin` is `https://github.com/microbecode/language-learner.git` over HTTPS.
+  All GitHub access — fetch, push, `gh`, API — authenticates with `GH_TOKEN`.
+  SSH keys are not used: a local `url.https://github.com/.insteadOf
+  git@github.com:` rewrite turns any SSH-form GitHub URL into HTTPS, so a
+  copied `git@github.com:` clone or remote still goes through the token.
 
 ## Git
+
+All work happens on `master`. No feature branches, no worktrees, no pull
+requests — commit straight to `master`.
 
 Commits are attributed to `microbecode` /
 `20242241+microbecode@users.noreply.github.com`, set in this repo's local

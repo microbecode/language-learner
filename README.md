@@ -22,6 +22,8 @@ chmod 600 .envrc
 direnv allow
 ```
 
-`.envrc` is gitignored. Confirm the token is live with `gh api user`. The
-token serves the `gh` CLI and the GitHub API; `origin` is an SSH remote, so
-fetch and push use SSH keys.
+`.envrc` is gitignored. Confirm the token is live with `gh api user`.
+
+The token is the only GitHub credential here. `origin` is an HTTPS remote and
+SSH-form URLs are rewritten to HTTPS, so fetch and push go through the token
+rather than an SSH key.
