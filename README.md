@@ -4,7 +4,20 @@ A browser app for learning Chinese Mandarin.
 
 ## Status
 
-Early. The repository holds project setup only — no application code yet.
+A working spaced-repetition drill for the 294 words of HSK 3.0 Level 1. Cards
+show a simplified word; revealing gives tone-marked pinyin and English
+meanings. Progress is stored in the browser and can be exported to JSON.
+
+## Commands
+
+- `npm run dev` — run the app
+- `npm test` — unit tests
+- `npm run test:e2e` — end-to-end tests
+- `npm run check` — typecheck
+- `npm run build:deck` — regenerate the deck from the pinned dataset
+
+Vocabulary data comes from
+[drkameleon/complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) (MIT).
 
 ## Setup
 

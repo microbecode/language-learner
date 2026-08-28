@@ -8,10 +8,12 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
+    "test:e2e": "playwright test",
     "check": "tsc --noEmit && svelte-check --tsconfig ./tsconfig.json",
     "build:deck": "node scripts/build-deck.ts"
   },
   "devDependencies": {
+    "@playwright/test": "1.62.1",
     "@sveltejs/vite-plugin-svelte": "7.3.0",
     "@types/node": "24.13.3",
     "svelte": "5.56.10",
