@@ -1,0 +1,4234 @@
+[
+  {
+    "id": "爱",
+    "simplified": "爱",
+    "pinyin": "ài",
+    "meanings": [
+      "to love; to be fond of; to like",
+      "affection",
+      "to be inclined (to do sth); to tend to (happen)"
+    ],
+    "frequency": 130,
+    "pos": [
+      "v",
+      "vn",
+      "b"
+    ]
+  },
+  {
+    "id": "八",
+    "simplified": "八",
+    "pinyin": "bā",
+    "meanings": [
+      "eight; 8"
+    ],
+    "frequency": 1362,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "爸爸",
+    "simplified": "爸爸",
+    "pinyin": "bà ba",
+    "meanings": [
+      "(coll.) father; dad"
+    ],
+    "frequency": 908,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "吧",
+    "simplified": "吧",
+    "pinyin": "bā",
+    "meanings": [
+      "bar (loanword) (serving drinks, or providing Internet access etc)",
+      "to puff (on a pipe etc)",
+      "(onom.) bang",
+      "abbr. for 贴吧"
+    ],
+    "frequency": 58,
+    "pos": [
+      "y"
+    ]
+  },
+  {
+    "id": "白天",
+    "simplified": "白天",
+    "pinyin": "bái tiān",
+    "meanings": [
+      "daytime",
+      "during the day",
+      "day"
+    ],
+    "frequency": 3645,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "百",
+    "simplified": "百",
+    "pinyin": "Bǎi",
+    "meanings": [
+      "surname Bai"
+    ],
+    "frequency": 2455,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "半",
+    "simplified": "半",
+    "pinyin": "bàn",
+    "meanings": [
+      "half",
+      "semi-",
+      "incomplete",
+      "(after a number) and a half"
+    ],
+    "frequency": 727,
+    "pos": [
+      "m"
+    ]
+  },
+  {
+    "id": "包子",
+    "simplified": "包子",
+    "pinyin": "bāo zi",
+    "meanings": [
+      "bao (steamed stuffed bun)"
+    ],
+    "frequency": 16315,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "杯子",
+    "simplified": "杯子",
+    "pinyin": "bēi zi",
+    "meanings": [
+      "cup",
+      "glass"
+    ],
+    "frequency": 6162,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "本",
+    "simplified": "本",
+    "pinyin": "běn",
+    "meanings": [
+      "root",
+      "stem",
+      "origin",
+      "source",
+      "this",
+      "the current",
+      "original",
+      "inherent",
+      "originally",
+      "classifier for books, periodicals, files etc"
+    ],
+    "frequency": 222,
+    "pos": [
+      "r",
+      "q",
+      "d",
+      "n"
+    ]
+  },
+  {
+    "id": "边",
+    "simplified": "边",
+    "pinyin": "biān",
+    "meanings": [
+      "side",
+      "edge",
+      "margin",
+      "border",
+      "boundary",
+      "simultaneously"
+    ],
+    "frequency": 803,
+    "pos": [
+      "k",
+      "d",
+      "n"
+    ]
+  },
+  {
+    "id": "便宜",
+    "simplified": "便宜",
+    "pinyin": "biàn yí",
+    "meanings": [
+      "convenient"
+    ],
+    "frequency": 2814,
+    "pos": [
+      "a",
+      "v",
+      "an"
+    ]
+  },
+  {
+    "id": "病",
+    "simplified": "病",
+    "pinyin": "bìng",
+    "meanings": [
+      "illness",
+      "disease",
+      "to fall ill",
+      "defect"
+    ],
+    "frequency": 827,
+    "pos": [
+      "n",
+      "v"
+    ]
+  },
+  {
+    "id": "不",
+    "simplified": "不",
+    "pinyin": "bù",
+    "meanings": [
+      "no; not so",
+      "(bound form) not; un-"
+    ],
+    "frequency": 9,
+    "pos": [
+      "d"
+    ]
+  },
+  {
+    "id": "不客气",
+    "simplified": "不客气",
+    "pinyin": "bù kè qi",
+    "meanings": [
+      "you're welcome",
+      "don't mention it",
+      "impolite",
+      "rude",
+      "blunt"
+    ],
+    "frequency": 16723,
+    "pos": []
+  },
+  {
+    "id": "不要",
+    "simplified": "不要",
+    "pinyin": "bù yào",
+    "meanings": [
+      "don't!",
+      "must not"
+    ],
+    "frequency": 221,
+    "pos": [
+      "d"
+    ]
+  },
+  {
+    "id": "菜",
+    "simplified": "菜",
+    "pinyin": "cài",
+    "meanings": [
+      "dish (type of food)",
+      "vegetable",
+      "cuisine",
+      "(coll.) (one's) type",
+      "(of one's skills etc) weak",
+      "poor"
+    ],
+    "frequency": 1448,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "茶",
+    "simplified": "茶",
+    "pinyin": "chá",
+    "meanings": [
+      "tea",
+      "tea plant"
+    ],
+    "frequency": 1910,
+    "pos": [
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "唱",
+    "simplified": "唱",
+    "pinyin": "chàng",
+    "meanings": [
+      "to sing",
+      "to call loudly",
+      "to chant"
+    ],
+    "frequency": 813,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "超市",
+    "simplified": "超市",
+    "pinyin": "chāo shì",
+    "meanings": [
+      "supermarket (abbr. for 超级市场)"
+    ],
+    "frequency": 4427,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "车",
+    "simplified": "车",
+    "pinyin": "Chē",
+    "meanings": [
+      "surname Che"
+    ],
+    "frequency": 186,
+    "pos": [
+      "n",
+      "q"
+    ]
+  },
+  {
+    "id": "吃",
+    "simplified": "吃",
+    "pinyin": "chī",
+    "meanings": [
+      "to eat; to consume",
+      "to eat at (a cafeteria etc)",
+      "to eradicate; to destroy",
+      "to absorb",
+      "to suffer (shock, injury, defeat etc)"
+    ],
+    "frequency": 142,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "出租车",
+    "simplified": "出租车",
+    "pinyin": "chū zū chē",
+    "meanings": [
+      "taxi",
+      "(Tw) rental car"
+    ],
+    "frequency": 2677,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "穿",
+    "simplified": "穿",
+    "pinyin": "chuān",
+    "meanings": [
+      "to wear",
+      "to put on",
+      "to dress",
+      "to bore through",
+      "to pierce",
+      "to perforate",
+      "to penetrate",
+      "to pass through",
+      "to thread"
+    ],
+    "frequency": 430,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "打电话",
+    "simplified": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "meanings": [
+      "to make a telephone call"
+    ],
+    "frequency": 1218,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "大",
+    "simplified": "大",
+    "pinyin": "dà",
+    "meanings": [
+      "big; large; great",
+      "older (than another person)",
+      "eldest (as in 姐)",
+      "greatly; freely; fully",
+      "(dialect) father",
+      "(dialect) uncle (father's brother)"
+    ],
+    "frequency": 66,
+    "pos": [
+      "a",
+      "d",
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "大家",
+    "simplified": "大家",
+    "pinyin": "dà jiā",
+    "meanings": [
+      "everyone",
+      "influential family",
+      "great expert"
+    ],
+    "frequency": 189,
+    "pos": [
+      "r",
+      "n"
+    ]
+  },
+  {
+    "id": "大学",
+    "simplified": "大学",
+    "pinyin": "Dà xué",
+    "meanings": [
+      "the Great Learning, one of the Four Books 四书 in Confucianism"
+    ],
+    "frequency": 814,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "大学生",
+    "simplified": "大学生",
+    "pinyin": "dà xué shēng",
+    "meanings": [
+      "university student",
+      "college student"
+    ],
+    "frequency": 4422,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "到",
+    "simplified": "到",
+    "pinyin": "dào",
+    "meanings": [
+      "to reach; to arrive",
+      "to leave for; to go to",
+      "to (a place); until (a time); up to (a point)",
+      "(verb complement indicating arriving at a place or reaching a point)",
+      "considerate; thoughtful; thorough"
+    ],
+    "frequency": 29,
+    "pos": [
+      "v",
+      "p"
+    ]
+  },
+  {
+    "id": "的",
+    "simplified": "的",
+    "pinyin": "de",
+    "meanings": [
+      "of; ~'s (possessive particle)",
+      "(used after an attribute)",
+      "(used to form a nominal expression)",
+      "(used at the end of a declarative sentence for emphasis)",
+      "also pr. [dì] or [di] in poetry and songs"
+    ],
+    "frequency": 1,
+    "pos": [
+      "u",
+      "n"
+    ]
+  },
+  {
+    "id": "弟弟",
+    "simplified": "弟弟",
+    "pinyin": "dì di",
+    "meanings": [
+      "younger brother"
+    ],
+    "frequency": 2424,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "第",
+    "simplified": "第",
+    "pinyin": "dì",
+    "meanings": [
+      "(prefix indicating ordinal number, as in 六 \"sixth\")",
+      "(literary) grades in which successful candidates in the imperial examinations were placed",
+      "(old) residence of a high official",
+      "(literary) but; however",
+      "(literary) only; just"
+    ],
+    "frequency": 962,
+    "pos": [
+      "m"
+    ]
+  },
+  {
+    "id": "点",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "meanings": [
+      "point",
+      "dot",
+      "drop",
+      "speck",
+      "o'clock",
+      "point (in space or time)",
+      "to draw a dot",
+      "to check on a list",
+      "to choose",
+      "to order (food in a restaurant)",
+      "to touch briefly",
+      "to hint",
+      "to light",
+      "to ignite",
+      "to pour a liquid drop by drop",
+      "(old) one fifth of a two-hour watch 更",
+      "dot stroke in Chinese characters",
+      "classifier for items"
+    ],
+    "frequency": 58,
+    "pos": [
+      "qt",
+      "n",
+      "t",
+      "v"
+    ]
+  },
+  {
+    "id": "电话",
+    "simplified": "电话",
+    "pinyin": "diàn huà",
+    "meanings": [
+      "telephone",
+      "phone call",
+      "phone number"
+    ],
+    "frequency": 359,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "电脑",
+    "simplified": "电脑",
+    "pinyin": "diàn nǎo",
+    "meanings": [
+      "computer"
+    ],
+    "frequency": 946,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "电视",
+    "simplified": "电视",
+    "pinyin": "diàn shì",
+    "meanings": [
+      "television; TV"
+    ],
+    "frequency": 779,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "电影",
+    "simplified": "电影",
+    "pinyin": "diàn yǐng",
+    "meanings": [
+      "movie; film"
+    ],
+    "frequency": 546,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "电影院",
+    "simplified": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "meanings": [
+      "cinema; movie theater"
+    ],
+    "frequency": 7945,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "店",
+    "simplified": "店",
+    "pinyin": "diàn",
+    "meanings": [
+      "inn; old-style hotel",
+      "(bound form) shop; store"
+    ],
+    "frequency": 732,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "东西",
+    "simplified": "东西",
+    "pinyin": "dōng xī",
+    "meanings": [
+      "east and west"
+    ],
+    "frequency": 226,
+    "pos": [
+      "n",
+      "f",
+      "nr"
+    ]
+  },
+  {
+    "id": "都",
+    "simplified": "都",
+    "pinyin": "Dū",
+    "meanings": [
+      "surname Du"
+    ],
+    "frequency": 25,
+    "pos": [
+      "d",
+      "g"
+    ]
+  },
+  {
+    "id": "读",
+    "simplified": "读",
+    "pinyin": "dòu",
+    "meanings": [
+      "comma",
+      "phrase marked by pause"
+    ],
+    "frequency": 1013,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "读书",
+    "simplified": "读书",
+    "pinyin": "dú shū",
+    "meanings": [
+      "to read a book",
+      "to study",
+      "to attend school"
+    ],
+    "frequency": 3285,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "对",
+    "simplified": "对",
+    "pinyin": "duì",
+    "meanings": [
+      "right; correct",
+      "towards; at; for",
+      "concerning; regarding",
+      "to treat (sb a certain way)",
+      "to face",
+      "(bound form) opposite; facing; matching",
+      "to match together; to adjust",
+      "to fit; to suit",
+      "to answer; to reply",
+      "to add; to pour in (a fluid)",
+      "to check; to compare",
+      "classifier: couple; pair"
+    ],
+    "frequency": 28,
+    "pos": [
+      "p",
+      "v",
+      "q",
+      "a"
+    ]
+  },
+  {
+    "id": "对不起",
+    "simplified": "对不起",
+    "pinyin": "duì bu qǐ",
+    "meanings": [
+      "I'm sorry; excuse me; I beg your pardon",
+      "to let (sb) down; to disappoint"
+    ],
+    "frequency": 1577,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "多",
+    "simplified": "多",
+    "pinyin": "duō",
+    "meanings": [
+      "many; much",
+      "too many; in excess",
+      "(after a numeral) ... odd",
+      "how (to what extent) (Taiwan pr. [duó])",
+      "(bound form) multi-; poly-"
+    ],
+    "frequency": 80,
+    "pos": [
+      "a",
+      "m",
+      "ad",
+      "d",
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "多少",
+    "simplified": "多少",
+    "pinyin": "duō shǎo",
+    "meanings": [
+      "number",
+      "amount",
+      "somewhat"
+    ],
+    "frequency": 526,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "儿子",
+    "simplified": "儿子",
+    "pinyin": "ér zi",
+    "meanings": [
+      "son"
+    ],
+    "frequency": 665,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "二",
+    "simplified": "二",
+    "pinyin": "èr",
+    "meanings": [
+      "two",
+      "2",
+      "(Beijing dialect) stupid"
+    ],
+    "frequency": 664,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "饭",
+    "simplified": "饭",
+    "pinyin": "fàn",
+    "meanings": [
+      "cooked rice",
+      "meal",
+      "(loanword) fan",
+      "devotee"
+    ],
+    "frequency": 1529,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "饭店",
+    "simplified": "饭店",
+    "pinyin": "fàn diàn",
+    "meanings": [
+      "restaurant",
+      "hotel"
+    ],
+    "frequency": 3998,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "房间",
+    "simplified": "房间",
+    "pinyin": "fáng jiān",
+    "meanings": [
+      "room"
+    ],
+    "frequency": 1357,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "飞机",
+    "simplified": "飞机",
+    "pinyin": "fēi jī",
+    "meanings": [
+      "airplane"
+    ],
+    "frequency": 1067,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "非常",
+    "simplified": "非常",
+    "pinyin": "fēi cháng",
+    "meanings": [
+      "very; really",
+      "unusual; extraordinary"
+    ],
+    "frequency": 194,
+    "pos": [
+      "d",
+      "b"
+    ]
+  },
+  {
+    "id": "分",
+    "simplified": "分",
+    "pinyin": "fēn",
+    "meanings": [
+      "to divide; to separate",
+      "to distribute; to allocate",
+      "to distinguish (good and bad)",
+      "(bound form) branch of (an organization); sub- (as in 局)",
+      "fraction",
+      "one tenth (of certain units)",
+      "unit of length equivalent to 0.33 cm",
+      "minute (unit of time)",
+      "minute (angular measurement unit)",
+      "a point (in sports or games)",
+      "0.01 yuan (unit of money)"
+    ],
+    "frequency": 372,
+    "pos": [
+      "t",
+      "qt",
+      "v",
+      "g",
+      "n",
+      "d"
+    ]
+  },
+  {
+    "id": "分钟",
+    "simplified": "分钟",
+    "pinyin": "fēn zhōng",
+    "meanings": [
+      "minute"
+    ],
+    "frequency": 465,
+    "pos": [
+      "qt"
+    ]
+  },
+  {
+    "id": "高兴",
+    "simplified": "高兴",
+    "pinyin": "gāo xìng",
+    "meanings": [
+      "happy",
+      "glad",
+      "willing (to do sth)",
+      "in a cheerful mood"
+    ],
+    "frequency": 920,
+    "pos": [
+      "a",
+      "an"
+    ]
+  },
+  {
+    "id": "哥哥",
+    "simplified": "哥哥",
+    "pinyin": "gē ge",
+    "meanings": [
+      "older brother"
+    ],
+    "frequency": 1655,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "歌",
+    "simplified": "歌",
+    "pinyin": "gē",
+    "meanings": [
+      "song",
+      "to sing"
+    ],
+    "frequency": 702,
+    "pos": [
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "个",
+    "simplified": "个",
+    "pinyin": "gě",
+    "meanings": [
+      "used in 自个儿"
+    ],
+    "frequency": 19,
+    "pos": [
+      "q",
+      "g"
+    ]
+  },
+  {
+    "id": "给",
+    "simplified": "给",
+    "pinyin": "gěi",
+    "meanings": [
+      "to",
+      "for",
+      "for the benefit of",
+      "to give",
+      "to allow",
+      "to do sth (for sb)",
+      "(grammatical equivalent of 被)",
+      "(grammatical equivalent of 把)",
+      "(sentence intensifier)"
+    ],
+    "frequency": 46,
+    "pos": [
+      "p",
+      "v",
+      "u"
+    ]
+  },
+  {
+    "id": "工作",
+    "simplified": "工作",
+    "pinyin": "gōng zuò",
+    "meanings": [
+      "to work",
+      "(of a machine) to operate",
+      "job",
+      "work",
+      "task"
+    ],
+    "frequency": 111,
+    "pos": [
+      "vn",
+      "v",
+      "n"
+    ]
+  },
+  {
+    "id": "公司",
+    "simplified": "公司",
+    "pinyin": "gōng sī",
+    "meanings": [
+      "company; firm; corporation"
+    ],
+    "frequency": 220,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "狗",
+    "simplified": "狗",
+    "pinyin": "gǒu",
+    "meanings": [
+      "dog"
+    ],
+    "frequency": 620,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "贵",
+    "simplified": "贵",
+    "pinyin": "guì",
+    "meanings": [
+      "expensive",
+      "noble",
+      "precious",
+      "(honorific) your"
+    ],
+    "frequency": 2239,
+    "pos": [
+      "a",
+      "r",
+      "b",
+      "g"
+    ]
+  },
+  {
+    "id": "国",
+    "simplified": "国",
+    "pinyin": "Guó",
+    "meanings": [
+      "surname Guo"
+    ],
+    "frequency": 1527,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "还",
+    "simplified": "还",
+    "pinyin": "Huán",
+    "meanings": [
+      "surname Huan"
+    ],
+    "frequency": 37,
+    "pos": [
+      "d",
+      "v"
+    ]
+  },
+  {
+    "id": "孩子",
+    "simplified": "孩子",
+    "pinyin": "hái zi",
+    "meanings": [
+      "child"
+    ],
+    "frequency": 207,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "汉语",
+    "simplified": "汉语",
+    "pinyin": "Hàn yǔ",
+    "meanings": [
+      "Chinese language"
+    ],
+    "frequency": 13422,
+    "pos": [
+      "nz"
+    ]
+  },
+  {
+    "id": "汉字",
+    "simplified": "汉字",
+    "pinyin": "hàn zì",
+    "meanings": [
+      "Chinese character",
+      "Japanese: kanji",
+      "Korean: hanja",
+      "Vietnamese: hán tự"
+    ],
+    "frequency": 19725,
+    "pos": [
+      "nz",
+      "n"
+    ]
+  },
+  {
+    "id": "好",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "meanings": [
+      "good",
+      "appropriate; proper",
+      "all right!",
+      "(before a verb) easy to",
+      "(before a verb) good to",
+      "(before an adjective for exclamatory effect) so",
+      "(verb complement indicating completion)",
+      "(of two people) close; on intimate terms",
+      "(after a personal pronoun) hello"
+    ],
+    "frequency": 20,
+    "pos": [
+      "a",
+      "d",
+      "v"
+    ]
+  },
+  {
+    "id": "好吃",
+    "simplified": "好吃",
+    "pinyin": "hǎo chī",
+    "meanings": [
+      "tasty",
+      "delicious"
+    ],
+    "frequency": 2484,
+    "pos": [
+      "a"
+    ]
+  },
+  {
+    "id": "好看",
+    "simplified": "好看",
+    "pinyin": "hǎo kàn",
+    "meanings": [
+      "good-looking",
+      "nice-looking",
+      "good (of a movie, book, TV show etc)",
+      "embarrassed",
+      "humiliated"
+    ],
+    "frequency": 1877,
+    "pos": [
+      "a"
+    ]
+  },
+  {
+    "id": "好听",
+    "simplified": "好听",
+    "pinyin": "hǎo tīng",
+    "meanings": [
+      "pleasant to hear"
+    ],
+    "frequency": 4355,
+    "pos": [
+      "a"
+    ]
+  },
+  {
+    "id": "好玩儿",
+    "simplified": "好玩儿",
+    "pinyin": "hǎo wán r",
+    "meanings": [
+      "erhua variant of 好玩",
+      "amusing",
+      "fun",
+      "interesting"
+    ],
+    "frequency": 23411,
+    "pos": [
+      "a"
+    ]
+  },
+  {
+    "id": "号",
+    "simplified": "号",
+    "pinyin": "háo",
+    "meanings": [
+      "roar",
+      "cry"
+    ],
+    "frequency": 278,
+    "pos": [
+      "q",
+      "n",
+      "v"
+    ]
+  },
+  {
+    "id": "喝",
+    "simplified": "喝",
+    "pinyin": "hē",
+    "meanings": [
+      "to drink",
+      "variant of 嗬"
+    ],
+    "frequency": 428,
+    "pos": [
+      "g",
+      "vn"
+    ]
+  },
+  {
+    "id": "和",
+    "simplified": "和",
+    "pinyin": "hé",
+    "meanings": [
+      "old variant of 和"
+    ],
+    "frequency": 19,
+    "pos": [
+      "cc",
+      "p",
+      "v",
+      "qv",
+      "g",
+      "n"
+    ]
+  },
+  {
+    "id": "很",
+    "simplified": "很",
+    "pinyin": "hěn",
+    "meanings": [
+      "(adverb of degree)",
+      "quite",
+      "very",
+      "awfully"
+    ],
+    "frequency": 35,
+    "pos": [
+      "d"
+    ]
+  },
+  {
+    "id": "后",
+    "simplified": "后",
+    "pinyin": "Hòu",
+    "meanings": [
+      "surname Hou"
+    ],
+    "frequency": 115,
+    "pos": [
+      "f",
+      "g",
+      "t"
+    ]
+  },
+  {
+    "id": "回",
+    "simplified": "回",
+    "pinyin": "huí",
+    "meanings": [
+      "to circle",
+      "to go back",
+      "to turn around",
+      "to answer",
+      "to return",
+      "to revolve",
+      "Hui ethnic group (Chinese Muslims)",
+      "time",
+      "classifier for acts of a play",
+      "section or chapter (of a classic book)"
+    ],
+    "frequency": 225,
+    "pos": [
+      "v",
+      "qv"
+    ]
+  },
+  {
+    "id": "会",
+    "simplified": "会",
+    "pinyin": "huì",
+    "meanings": [
+      "can; to have the skill; to know how to",
+      "to be likely to; to be sure to",
+      "to meet; to get together",
+      "meeting; gathering",
+      "(suffix) union; group; association",
+      "(bound form) a moment (Taiwan pr. [huǐ])"
+    ],
+    "frequency": 23,
+    "pos": [
+      "v",
+      "n"
+    ]
+  },
+  {
+    "id": "火车",
+    "simplified": "火车",
+    "pinyin": "huǒ chē",
+    "meanings": [
+      "train"
+    ],
+    "frequency": 2791,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "鸡蛋",
+    "simplified": "鸡蛋",
+    "pinyin": "jī dàn",
+    "meanings": [
+      "(chicken) egg",
+      "hen's egg"
+    ],
+    "frequency": 3501,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "几",
+    "simplified": "几",
+    "pinyin": "jī",
+    "meanings": [
+      "small table"
+    ],
+    "frequency": 178,
+    "pos": [
+      "m",
+      "d"
+    ]
+  },
+  {
+    "id": "家",
+    "simplified": "家",
+    "pinyin": "jiā",
+    "meanings": [
+      "used in 家伙 and 家俱"
+    ],
+    "frequency": 124,
+    "pos": [
+      "n",
+      "q"
+    ]
+  },
+  {
+    "id": "家人",
+    "simplified": "家人",
+    "pinyin": "jiā rén",
+    "meanings": [
+      "family member",
+      "(old) servant"
+    ],
+    "frequency": 1562,
+    "pos": [
+      "n",
+      "nr"
+    ]
+  },
+  {
+    "id": "见",
+    "simplified": "见",
+    "pinyin": "jiàn",
+    "meanings": [
+      "to see",
+      "to meet",
+      "to appear (to be sth)",
+      "to interview",
+      "opinion",
+      "view"
+    ],
+    "frequency": 178,
+    "pos": [
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "件",
+    "simplified": "件",
+    "pinyin": "jiàn",
+    "meanings": [
+      "item",
+      "component",
+      "classifier for events, things, clothes etc"
+    ],
+    "frequency": 292,
+    "pos": [
+      "q",
+      "g"
+    ]
+  },
+  {
+    "id": "饺子",
+    "simplified": "饺子",
+    "pinyin": "jiǎo zi",
+    "meanings": [
+      "dumpling",
+      "pot-sticker"
+    ],
+    "frequency": 11834,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "叫",
+    "simplified": "叫",
+    "pinyin": "jiào",
+    "meanings": [
+      "to shout",
+      "to call",
+      "to order",
+      "to ask",
+      "to be called",
+      "by (indicates agent in the passive mood)"
+    ],
+    "frequency": 200,
+    "pos": [
+      "v",
+      "p",
+      "n"
+    ]
+  },
+  {
+    "id": "姐姐",
+    "simplified": "姐姐",
+    "pinyin": "jiě jie",
+    "meanings": [
+      "older sister"
+    ],
+    "frequency": 1513,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "今年",
+    "simplified": "今年",
+    "pinyin": "jīn nián",
+    "meanings": [
+      "this year"
+    ],
+    "frequency": 851,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "今天",
+    "simplified": "今天",
+    "pinyin": "jīn tiān",
+    "meanings": [
+      "today",
+      "at the present",
+      "now"
+    ],
+    "frequency": 155,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "九",
+    "simplified": "九",
+    "pinyin": "jiǔ",
+    "meanings": [
+      "nine",
+      "9"
+    ],
+    "frequency": 2040,
+    "pos": [
+      "m",
+      "t",
+      "b"
+    ]
+  },
+  {
+    "id": "觉得",
+    "simplified": "觉得",
+    "pinyin": "jué de",
+    "meanings": [
+      "to think that ...; to feel that ...",
+      "to feel (uncomfortable etc)"
+    ],
+    "frequency": 161,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "开",
+    "simplified": "开",
+    "pinyin": "kāi",
+    "meanings": [
+      "to open (transitive or intransitive)",
+      "(of ships, vehicles, troops etc) to start",
+      "to turn on; to put in operation; to operate; to run",
+      "to boil",
+      "to write out (a prescription, check, invoice etc)",
+      "(directional complement) away; off",
+      "carat (gold)",
+      "abbr. for Kelvin, 开尔文",
+      "abbr. for 开本, book format"
+    ],
+    "frequency": 195,
+    "pos": [
+      "v",
+      "q"
+    ]
+  },
+  {
+    "id": "开车",
+    "simplified": "开车",
+    "pinyin": "kāi chē",
+    "meanings": [
+      "to drive a car"
+    ],
+    "frequency": 2670,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "看",
+    "simplified": "看",
+    "pinyin": "kān",
+    "meanings": [
+      "to look after",
+      "to take care of",
+      "to watch",
+      "to guard"
+    ],
+    "frequency": 52,
+    "pos": [
+      "v",
+      "u"
+    ]
+  },
+  {
+    "id": "看病",
+    "simplified": "看病",
+    "pinyin": "kàn bìng",
+    "meanings": [
+      "to visit a doctor",
+      "to see a patient"
+    ],
+    "frequency": 7705,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "看见",
+    "simplified": "看见",
+    "pinyin": "kàn jiàn",
+    "meanings": [
+      "to see",
+      "to catch sight of"
+    ],
+    "frequency": 870,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "可以",
+    "simplified": "可以",
+    "pinyin": "kě yǐ",
+    "meanings": [
+      "can",
+      "may",
+      "possible",
+      "able to",
+      "not bad",
+      "pretty good"
+    ],
+    "frequency": 58,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "课",
+    "simplified": "课",
+    "pinyin": "kè",
+    "meanings": [
+      "subject",
+      "course",
+      "class",
+      "lesson",
+      "to levy",
+      "tax",
+      "form of divination"
+    ],
+    "frequency": 1517,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "口",
+    "simplified": "口",
+    "pinyin": "kǒu",
+    "meanings": [
+      "mouth",
+      "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+      "classifier for bites or mouthfuls"
+    ],
+    "frequency": 637,
+    "pos": [
+      "q",
+      "n"
+    ]
+  },
+  {
+    "id": "块",
+    "simplified": "块",
+    "pinyin": "kuài",
+    "meanings": [
+      "lump; chunk; piece",
+      "classifier for pieces of cloth, cake, soap etc",
+      "(coll.) classifier for money and currency units"
+    ],
+    "frequency": 483,
+    "pos": [
+      "q",
+      "g"
+    ]
+  },
+  {
+    "id": "来",
+    "simplified": "来",
+    "pinyin": "lái",
+    "meanings": [
+      "to come",
+      "(used as a substitute for a more specific verb)",
+      "hither (directional complement for motion toward the speaker, as in 回来)",
+      "ever since (as in 自古以来)",
+      "for the past (amount of time)",
+      "(prefix) the coming ...; the next ... (as in 来世)",
+      "(between two verbs) in order to",
+      "(after a round number) approximately",
+      "(used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)"
+    ],
+    "frequency": 31,
+    "pos": [
+      "v",
+      "f",
+      "m",
+      "u",
+      "y"
+    ]
+  },
+  {
+    "id": "老师",
+    "simplified": "老师",
+    "pinyin": "lǎo shī",
+    "meanings": [
+      "teacher"
+    ],
+    "frequency": 799,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "了",
+    "simplified": "了",
+    "pinyin": "le",
+    "meanings": [
+      "(completed action marker)",
+      "(modal particle indicating change of state, situation now)",
+      "(modal particle intensifying preceding clause)"
+    ],
+    "frequency": 3,
+    "pos": [
+      "y",
+      "u",
+      "v"
+    ]
+  },
+  {
+    "id": "冷",
+    "simplified": "冷",
+    "pinyin": "Lěng",
+    "meanings": [
+      "surname Leng"
+    ],
+    "frequency": 1027,
+    "pos": [
+      "a",
+      "ad",
+      "g"
+    ]
+  },
+  {
+    "id": "里",
+    "simplified": "里",
+    "pinyin": "lǐ",
+    "meanings": [
+      "variant of 里"
+    ],
+    "frequency": 75,
+    "pos": [
+      "f",
+      "q"
+    ]
+  },
+  {
+    "id": "两",
+    "simplified": "两",
+    "pinyin": "liǎng",
+    "meanings": [
+      "two",
+      "both",
+      "some",
+      "a few",
+      "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)"
+    ],
+    "frequency": 81,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "零",
+    "simplified": "零",
+    "pinyin": "líng",
+    "meanings": [
+      "zero",
+      "nought",
+      "zero sign",
+      "fractional",
+      "fragmentary",
+      "odd (of numbers)",
+      "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+      "fraction",
+      "(in mathematics) remainder (after division)",
+      "extra",
+      "to wither and fall",
+      "to wither"
+    ],
+    "frequency": 3623,
+    "pos": [
+      "m",
+      "t",
+      "g"
+    ]
+  },
+  {
+    "id": "六",
+    "simplified": "六",
+    "pinyin": "liù",
+    "meanings": [
+      "six",
+      "6"
+    ],
+    "frequency": 802,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "妈妈",
+    "simplified": "妈妈",
+    "pinyin": "mā ma",
+    "meanings": [
+      "mama",
+      "mommy",
+      "mother"
+    ],
+    "frequency": 527,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "吗",
+    "simplified": "吗",
+    "pinyin": "má",
+    "meanings": [
+      "(coll.) what?"
+    ],
+    "frequency": 83,
+    "pos": [
+      "y"
+    ]
+  },
+  {
+    "id": "买",
+    "simplified": "买",
+    "pinyin": "mǎi",
+    "meanings": [
+      "to buy",
+      "to purchase"
+    ],
+    "frequency": 240,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "卖",
+    "simplified": "卖",
+    "pinyin": "mài",
+    "meanings": [
+      "to sell",
+      "to betray",
+      "to spare no effort",
+      "to show off or flaunt"
+    ],
+    "frequency": 590,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "忙",
+    "simplified": "忙",
+    "pinyin": "máng",
+    "meanings": [
+      "busy",
+      "hurriedly",
+      "to hurry",
+      "to rush"
+    ],
+    "frequency": 859,
+    "pos": [
+      "v",
+      "a",
+      "ad",
+      "g",
+      "an"
+    ]
+  },
+  {
+    "id": "猫",
+    "simplified": "猫",
+    "pinyin": "māo",
+    "meanings": [
+      "cat",
+      "(dialect) to hide oneself",
+      "(coll.) modem"
+    ],
+    "frequency": 1150,
+    "pos": [
+      "n",
+      "v"
+    ]
+  },
+  {
+    "id": "没关系",
+    "simplified": "没关系",
+    "pinyin": "méi guān xi",
+    "meanings": [
+      "it doesn't matter"
+    ],
+    "frequency": 3541,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "没有",
+    "simplified": "没有",
+    "pinyin": "méi yǒu",
+    "meanings": [
+      "haven't",
+      "hasn't",
+      "doesn't exist",
+      "to not have",
+      "to not be"
+    ],
+    "frequency": 46,
+    "pos": [
+      "v",
+      "d"
+    ]
+  },
+  {
+    "id": "妹妹",
+    "simplified": "妹妹",
+    "pinyin": "mèi mei",
+    "meanings": [
+      "younger sister",
+      "young woman"
+    ],
+    "frequency": 2093,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "们",
+    "simplified": "们",
+    "pinyin": "men",
+    "meanings": [
+      "plural marker for pronouns, and nouns referring to individuals"
+    ],
+    "frequency": 457,
+    "pos": [
+      "k"
+    ]
+  },
+  {
+    "id": "米饭",
+    "simplified": "米饭",
+    "pinyin": "mǐ fàn",
+    "meanings": [
+      "(cooked) rice"
+    ],
+    "frequency": 10194,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "面包",
+    "simplified": "面包",
+    "pinyin": "miàn bāo",
+    "meanings": [
+      "bread"
+    ],
+    "frequency": 4138,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "面条儿",
+    "simplified": "面条儿",
+    "pinyin": "miàn tiáo r",
+    "meanings": [
+      "erhua variant of 面条",
+      "noodles"
+    ],
+    "frequency": 1000000,
+    "pos": []
+  },
+  {
+    "id": "名字",
+    "simplified": "名字",
+    "pinyin": "míng zi",
+    "meanings": [
+      "name (of a person or thing)"
+    ],
+    "frequency": 829,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "明年",
+    "simplified": "明年",
+    "pinyin": "míng nián",
+    "meanings": [
+      "next year"
+    ],
+    "frequency": 2487,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "明天",
+    "simplified": "明天",
+    "pinyin": "míng tiān",
+    "meanings": [
+      "tomorrow"
+    ],
+    "frequency": 469,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "哪",
+    "simplified": "哪",
+    "pinyin": "nǎ",
+    "meanings": [
+      "how",
+      "which"
+    ],
+    "frequency": 547,
+    "pos": [
+      "r",
+      "y"
+    ]
+  },
+  {
+    "id": "哪儿",
+    "simplified": "哪儿",
+    "pinyin": "nǎ r",
+    "meanings": [
+      "where?",
+      "wherever; anywhere; somewhere",
+      "(used in rhetorical questions) how can ...?; how could ...?"
+    ],
+    "frequency": 2534,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "哪里",
+    "simplified": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meanings": [
+      "where?",
+      "somewhere",
+      "anywhere",
+      "wherever",
+      "nowhere (negative answer to question)",
+      "humble expression denying compliment",
+      "also written 哪里"
+    ],
+    "frequency": 750,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "哪些",
+    "simplified": "哪些",
+    "pinyin": "nǎ xiē",
+    "meanings": [
+      "which ones?",
+      "who?",
+      "what?"
+    ],
+    "frequency": 3741,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "那",
+    "simplified": "那",
+    "pinyin": "Nā",
+    "meanings": [
+      "surname Na"
+    ],
+    "frequency": 48,
+    "pos": [
+      "r",
+      "c"
+    ]
+  },
+  {
+    "id": "那边",
+    "simplified": "那边",
+    "pinyin": "nà bian",
+    "meanings": [
+      "over there",
+      "yonder"
+    ],
+    "frequency": 2415,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "那儿",
+    "simplified": "那儿",
+    "pinyin": "nà r",
+    "meanings": [
+      "there"
+    ],
+    "frequency": 3421,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "那里",
+    "simplified": "那里",
+    "pinyin": "nà li",
+    "meanings": [
+      "there; that place"
+    ],
+    "frequency": 770,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "那些",
+    "simplified": "那些",
+    "pinyin": "nà xiē",
+    "meanings": [
+      "those"
+    ],
+    "frequency": 326,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "男",
+    "simplified": "男",
+    "pinyin": "nán",
+    "meanings": [
+      "male",
+      "Baron, lowest of five orders of nobility 位"
+    ],
+    "frequency": 587,
+    "pos": [
+      "b",
+      "g"
+    ]
+  },
+  {
+    "id": "男朋友",
+    "simplified": "男朋友",
+    "pinyin": "nán péng you",
+    "meanings": [
+      "boyfriend"
+    ],
+    "frequency": 3176,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "呢",
+    "simplified": "呢",
+    "pinyin": "ne",
+    "meanings": [
+      "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+      "particle for inquiring about location (\"Where is ...?\")",
+      "particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
+      "(at the end of a declarative sentence) particle indicating continuation of a state or action",
+      "particle indicating strong affirmation"
+    ],
+    "frequency": 96,
+    "pos": [
+      "y"
+    ]
+  },
+  {
+    "id": "能",
+    "simplified": "能",
+    "pinyin": "Néng",
+    "meanings": [
+      "surname Neng"
+    ],
+    "frequency": 46,
+    "pos": [
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "你",
+    "simplified": "你",
+    "pinyin": "nǐ",
+    "meanings": [
+      "you (informal, as opposed to courteous 您)"
+    ],
+    "frequency": 5,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "你们",
+    "simplified": "你们",
+    "pinyin": "nǐ men",
+    "meanings": [
+      "you (plural)"
+    ],
+    "frequency": 127,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "年",
+    "simplified": "年",
+    "pinyin": "Nián",
+    "meanings": [
+      "surname Nian"
+    ],
+    "frequency": 79,
+    "pos": [
+      "qt",
+      "t",
+      "n"
+    ]
+  },
+  {
+    "id": "您",
+    "simplified": "您",
+    "pinyin": "nín",
+    "meanings": [
+      "you (courteous, as opposed to informal 你)"
+    ],
+    "frequency": 357,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "牛奶",
+    "simplified": "牛奶",
+    "pinyin": "niú nǎi",
+    "meanings": [
+      "cow's milk"
+    ],
+    "frequency": 2986,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "女",
+    "simplified": "女",
+    "pinyin": "nǚ",
+    "meanings": [
+      "female",
+      "woman",
+      "daughter"
+    ],
+    "frequency": 368,
+    "pos": [
+      "b",
+      "g"
+    ]
+  },
+  {
+    "id": "女儿",
+    "simplified": "女儿",
+    "pinyin": "nǚ ér",
+    "meanings": [
+      "daughter"
+    ],
+    "frequency": 879,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "女朋友",
+    "simplified": "女朋友",
+    "pinyin": "nǚ péng you",
+    "meanings": [
+      "girlfriend"
+    ],
+    "frequency": 3004,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "女士",
+    "simplified": "女士",
+    "pinyin": "nǚ shì",
+    "meanings": [
+      "lady",
+      "madam",
+      "Miss",
+      "Ms"
+    ],
+    "frequency": 2155,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "朋友",
+    "simplified": "朋友",
+    "pinyin": "péng you",
+    "meanings": [
+      "friend"
+    ],
+    "frequency": 280,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "漂亮",
+    "simplified": "漂亮",
+    "pinyin": "piào liang",
+    "meanings": [
+      "pretty",
+      "beautiful"
+    ],
+    "frequency": 915,
+    "pos": [
+      "a"
+    ]
+  },
+  {
+    "id": "苹果",
+    "simplified": "苹果",
+    "pinyin": "píng guǒ",
+    "meanings": [
+      "apple"
+    ],
+    "frequency": 2562,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "七",
+    "simplified": "七",
+    "pinyin": "qī",
+    "meanings": [
+      "seven",
+      "7"
+    ],
+    "frequency": 1419,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "起床",
+    "simplified": "起床",
+    "pinyin": "qǐ chuáng",
+    "meanings": [
+      "to get out of bed",
+      "to get up"
+    ],
+    "frequency": 2645,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "千",
+    "simplified": "千",
+    "pinyin": "qiān",
+    "meanings": [
+      "thousand"
+    ],
+    "frequency": 1728,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "前",
+    "simplified": "前",
+    "pinyin": "qián",
+    "meanings": [
+      "front",
+      "forward",
+      "ahead",
+      "first",
+      "top (followed by a number)",
+      "future",
+      "ago",
+      "before",
+      "BC (e.g. 前293年)",
+      "former",
+      "formerly"
+    ],
+    "frequency": 127,
+    "pos": [
+      "f",
+      "v"
+    ]
+  },
+  {
+    "id": "钱",
+    "simplified": "钱",
+    "pinyin": "Qián",
+    "meanings": [
+      "surname Qian"
+    ],
+    "frequency": 218,
+    "pos": [
+      "n",
+      "nr"
+    ]
+  },
+  {
+    "id": "请",
+    "simplified": "请",
+    "pinyin": "qǐng",
+    "meanings": [
+      "to ask",
+      "to invite",
+      "please (do sth)",
+      "to treat (to a meal etc)",
+      "to request"
+    ],
+    "frequency": 216,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "请问",
+    "simplified": "请问",
+    "pinyin": "qǐng wèn",
+    "meanings": [
+      "Excuse me, may I ask...?"
+    ],
+    "frequency": 3689,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "去",
+    "simplified": "去",
+    "pinyin": "qù",
+    "meanings": [
+      "to go",
+      "to go to (a place)",
+      "(of a time etc) last",
+      "just passed",
+      "to send",
+      "to remove",
+      "to get rid of",
+      "to reduce",
+      "to be apart from in space or time",
+      "to die (euphemism)",
+      "to play (a part)",
+      "(when used either before or after a verb) to go in order to do sth",
+      "(after a verb of motion indicates movement away from the speaker)",
+      "(used after certain verbs to indicate detachment or separation)"
+    ],
+    "frequency": 38,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "去年",
+    "simplified": "去年",
+    "pinyin": "qù nián",
+    "meanings": [
+      "last year"
+    ],
+    "frequency": 933,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "热",
+    "simplified": "热",
+    "pinyin": "rè",
+    "meanings": [
+      "to warm up",
+      "to heat up",
+      "hot (of weather)",
+      "heat",
+      "fervent"
+    ],
+    "frequency": 938,
+    "pos": [
+      "a",
+      "n",
+      "k",
+      "v",
+      "ad",
+      "an"
+    ]
+  },
+  {
+    "id": "人",
+    "simplified": "人",
+    "pinyin": "rén",
+    "meanings": [
+      "person; people"
+    ],
+    "frequency": 19,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "认识",
+    "simplified": "认识",
+    "pinyin": "rèn shi",
+    "meanings": [
+      "to know",
+      "to recognize",
+      "to be familiar with",
+      "to get acquainted with sb",
+      "knowledge",
+      "understanding",
+      "awareness",
+      "cognition"
+    ],
+    "frequency": 463,
+    "pos": [
+      "v",
+      "n",
+      "vn"
+    ]
+  },
+  {
+    "id": "日",
+    "simplified": "日",
+    "pinyin": "Rì",
+    "meanings": [
+      "abbr. for 本, Japan"
+    ],
+    "frequency": 395,
+    "pos": [
+      "t",
+      "g",
+      "b",
+      "qt"
+    ]
+  },
+  {
+    "id": "三",
+    "simplified": "三",
+    "pinyin": "Sān",
+    "meanings": [
+      "surname San"
+    ],
+    "frequency": 233,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "商店",
+    "simplified": "商店",
+    "pinyin": "shāng diàn",
+    "meanings": [
+      "store; shop"
+    ],
+    "frequency": 3479,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "上",
+    "simplified": "上",
+    "pinyin": "shǎng",
+    "meanings": [
+      "used in 上声"
+    ],
+    "frequency": 29,
+    "pos": [
+      "f",
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "上班",
+    "simplified": "上班",
+    "pinyin": "shàng bān",
+    "meanings": [
+      "to go to work",
+      "to be on duty",
+      "to start work",
+      "to go to the office"
+    ],
+    "frequency": 1495,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "上课",
+    "simplified": "上课",
+    "pinyin": "shàng kè",
+    "meanings": [
+      "to go to class",
+      "to attend class",
+      "to go to teach a class"
+    ],
+    "frequency": 3042,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "上午",
+    "simplified": "上午",
+    "pinyin": "shàng wǔ",
+    "meanings": [
+      "morning"
+    ],
+    "frequency": 2188,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "上学",
+    "simplified": "上学",
+    "pinyin": "shàng xué",
+    "meanings": [
+      "to go to school",
+      "to attend school"
+    ],
+    "frequency": 2965,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "少",
+    "simplified": "少",
+    "pinyin": "shǎo",
+    "meanings": [
+      "few",
+      "less",
+      "to lack",
+      "to be missing",
+      "to stop (doing sth)",
+      "seldom"
+    ],
+    "frequency": 538,
+    "pos": [
+      "a",
+      "ad",
+      "v",
+      "d",
+      "g"
+    ]
+  },
+  {
+    "id": "什么",
+    "simplified": "什么",
+    "pinyin": "shén me",
+    "meanings": [
+      "what?",
+      "something",
+      "anything"
+    ],
+    "frequency": 55,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "生病",
+    "simplified": "生病",
+    "pinyin": "shēng bìng",
+    "meanings": [
+      "to fall ill"
+    ],
+    "frequency": 4336,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "十",
+    "simplified": "十",
+    "pinyin": "shí",
+    "meanings": [
+      "ten",
+      "10"
+    ],
+    "frequency": 865,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "时候",
+    "simplified": "时候",
+    "pinyin": "shí hou",
+    "meanings": [
+      "time",
+      "length of time",
+      "moment",
+      "period"
+    ],
+    "frequency": 107,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "时间",
+    "simplified": "时间",
+    "pinyin": "shí jiān",
+    "meanings": [
+      "time",
+      "period"
+    ],
+    "frequency": 127,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "事",
+    "simplified": "事",
+    "pinyin": "shì",
+    "meanings": [
+      "matter",
+      "thing",
+      "item",
+      "work",
+      "affair"
+    ],
+    "frequency": 113,
+    "pos": [
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "是",
+    "simplified": "是",
+    "pinyin": "shì",
+    "meanings": [
+      "to be (followed by substantives only)",
+      "correct; right; true",
+      "(respectful acknowledgement of a command) very well",
+      "(adverb for emphatic assertion)"
+    ],
+    "frequency": 4,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "手机",
+    "simplified": "手机",
+    "pinyin": "shǒu jī",
+    "meanings": [
+      "cell phone",
+      "mobile phone"
+    ],
+    "frequency": 857,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "书",
+    "simplified": "书",
+    "pinyin": "Shū",
+    "meanings": [
+      "abbr. for 书经"
+    ],
+    "frequency": 560,
+    "pos": [
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "书店",
+    "simplified": "书店",
+    "pinyin": "shū diàn",
+    "meanings": [
+      "bookstore"
+    ],
+    "frequency": 7174,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "谁",
+    "simplified": "谁",
+    "pinyin": "shéi",
+    "meanings": [
+      "who",
+      "also pr. [shuí]"
+    ],
+    "frequency": 142,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "水",
+    "simplified": "水",
+    "pinyin": "Shuǐ",
+    "meanings": [
+      "surname Shui"
+    ],
+    "frequency": 335,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "水果",
+    "simplified": "水果",
+    "pinyin": "shuǐ guǒ",
+    "meanings": [
+      "fruit"
+    ],
+    "frequency": 3271,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "睡",
+    "simplified": "睡",
+    "pinyin": "shuì",
+    "meanings": [
+      "to sleep",
+      "to lie down"
+    ],
+    "frequency": 464,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "睡觉",
+    "simplified": "睡觉",
+    "pinyin": "shuì jiào",
+    "meanings": [
+      "to go to bed",
+      "to sleep"
+    ],
+    "frequency": 944,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "说",
+    "simplified": "说",
+    "pinyin": "shuì",
+    "meanings": [
+      "to persuade"
+    ],
+    "frequency": 19,
+    "pos": [
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "说话",
+    "simplified": "说话",
+    "pinyin": "shuō huà",
+    "meanings": [
+      "to speak",
+      "to say",
+      "to talk",
+      "to gossip",
+      "to tell stories",
+      "talk",
+      "word"
+    ],
+    "frequency": 880,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "四",
+    "simplified": "四",
+    "pinyin": "sì",
+    "meanings": [
+      "four",
+      "4"
+    ],
+    "frequency": 481,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "岁",
+    "simplified": "岁",
+    "pinyin": "suì",
+    "meanings": [
+      "variant of 岁, year",
+      "years old"
+    ],
+    "frequency": 266,
+    "pos": [
+      "qt"
+    ]
+  },
+  {
+    "id": "他",
+    "simplified": "他",
+    "pinyin": "tā",
+    "meanings": [
+      "he; him (used for either sex when the sex is unknown or unimportant)",
+      "(used before sb's name for emphasis)",
+      "(used as a meaningless mock object)",
+      "(literary) other"
+    ],
+    "frequency": 10,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "他们",
+    "simplified": "他们",
+    "pinyin": "tā men",
+    "meanings": [
+      "they"
+    ],
+    "frequency": 49,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "它",
+    "simplified": "它",
+    "pinyin": "tā",
+    "meanings": [
+      "it"
+    ],
+    "frequency": 114,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "它们",
+    "simplified": "它们",
+    "pinyin": "tā men",
+    "meanings": [
+      "they (for inanimate objects)"
+    ],
+    "frequency": 793,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "她",
+    "simplified": "她",
+    "pinyin": "tā",
+    "meanings": [
+      "she"
+    ],
+    "frequency": 38,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "她们",
+    "simplified": "她们",
+    "pinyin": "tā men",
+    "meanings": [
+      "they",
+      "them (for females)"
+    ],
+    "frequency": 836,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "太",
+    "simplified": "太",
+    "pinyin": "tài",
+    "meanings": [
+      "highest",
+      "greatest",
+      "too (much)",
+      "very",
+      "extremely"
+    ],
+    "frequency": 87,
+    "pos": [
+      "d",
+      "b"
+    ]
+  },
+  {
+    "id": "天",
+    "simplified": "天",
+    "pinyin": "tiān",
+    "meanings": [
+      "day",
+      "sky",
+      "heaven"
+    ],
+    "frequency": 83,
+    "pos": [
+      "qt",
+      "n"
+    ]
+  },
+  {
+    "id": "天气",
+    "simplified": "天气",
+    "pinyin": "tiān qì",
+    "meanings": [
+      "weather"
+    ],
+    "frequency": 1675,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "听",
+    "simplified": "听",
+    "pinyin": "yǐn",
+    "meanings": [
+      "smile (archaic)"
+    ],
+    "frequency": 190,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "听见",
+    "simplified": "听见",
+    "pinyin": "tīng jiàn",
+    "meanings": [
+      "to hear"
+    ],
+    "frequency": 3114,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "同学",
+    "simplified": "同学",
+    "pinyin": "tóng xué",
+    "meanings": [
+      "to study at the same school",
+      "fellow student",
+      "classmate"
+    ],
+    "frequency": 1828,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "外",
+    "simplified": "外",
+    "pinyin": "wài",
+    "meanings": [
+      "outside",
+      "in addition",
+      "foreign",
+      "external"
+    ],
+    "frequency": 489,
+    "pos": [
+      "f"
+    ]
+  },
+  {
+    "id": "外边",
+    "simplified": "外边",
+    "pinyin": "wài bian",
+    "meanings": [
+      "outside",
+      "outer surface",
+      "abroad",
+      "place other than one's home"
+    ],
+    "frequency": 12319,
+    "pos": [
+      "f"
+    ]
+  },
+  {
+    "id": "玩",
+    "simplified": "玩",
+    "pinyin": "wán",
+    "meanings": [
+      "to play",
+      "to have fun",
+      "to trifle with",
+      "toy",
+      "sth used for amusement",
+      "curio or antique (Taiwan pr. [wàn])",
+      "to keep sth for entertainment"
+    ],
+    "frequency": 415,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "晚",
+    "simplified": "晚",
+    "pinyin": "wǎn",
+    "meanings": [
+      "evening",
+      "night",
+      "late"
+    ],
+    "frequency": 558,
+    "pos": [
+      "tg",
+      "a",
+      "ad"
+    ]
+  },
+  {
+    "id": "晚饭",
+    "simplified": "晚饭",
+    "pinyin": "wǎn fàn",
+    "meanings": [
+      "evening meal",
+      "dinner",
+      "supper"
+    ],
+    "frequency": 3794,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "晚上",
+    "simplified": "晚上",
+    "pinyin": "wǎn shang",
+    "meanings": [
+      "evening",
+      "night",
+      "in the evening"
+    ],
+    "frequency": 502,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "喂",
+    "simplified": "喂",
+    "pinyin": "wéi",
+    "meanings": [
+      "hello (when answering the phone)"
+    ],
+    "frequency": 1301,
+    "pos": [
+      "v",
+      "e"
+    ]
+  },
+  {
+    "id": "问",
+    "simplified": "问",
+    "pinyin": "wèn",
+    "meanings": [
+      "to ask; to inquire"
+    ],
+    "frequency": 246,
+    "pos": [
+      "v",
+      "g",
+      "vn"
+    ]
+  },
+  {
+    "id": "问题",
+    "simplified": "问题",
+    "pinyin": "wèn tí",
+    "meanings": [
+      "question",
+      "problem",
+      "issue",
+      "topic"
+    ],
+    "frequency": 109,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "我",
+    "simplified": "我",
+    "pinyin": "wǒ",
+    "meanings": [
+      "I; me; my"
+    ],
+    "frequency": 3,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "我们",
+    "simplified": "我们",
+    "pinyin": "wǒ men",
+    "meanings": [
+      "we",
+      "us",
+      "ourselves",
+      "our"
+    ],
+    "frequency": 19,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "五",
+    "simplified": "五",
+    "pinyin": "wǔ",
+    "meanings": [
+      "five",
+      "5"
+    ],
+    "frequency": 563,
+    "pos": [
+      "m",
+      "t"
+    ]
+  },
+  {
+    "id": "午饭",
+    "simplified": "午饭",
+    "pinyin": "wǔ fàn",
+    "meanings": [
+      "lunch"
+    ],
+    "frequency": 4986,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "喜欢",
+    "simplified": "喜欢",
+    "pinyin": "xǐ huan",
+    "meanings": [
+      "to like; to be fond of"
+    ],
+    "frequency": 139,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "下",
+    "simplified": "下",
+    "pinyin": "xià",
+    "meanings": [
+      "down",
+      "downwards",
+      "below",
+      "lower",
+      "later",
+      "next (week etc)",
+      "second (of two parts)",
+      "to decline",
+      "to go down",
+      "to arrive at (a decision, conclusion etc)",
+      "measure word to show the frequency of an action"
+    ],
+    "frequency": 70,
+    "pos": [
+      "v",
+      "f",
+      "qt",
+      "g"
+    ]
+  },
+  {
+    "id": "下班",
+    "simplified": "下班",
+    "pinyin": "xià bān",
+    "meanings": [
+      "to finish work",
+      "to get off work"
+    ],
+    "frequency": 3207,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "下课",
+    "simplified": "下课",
+    "pinyin": "xià kè",
+    "meanings": [
+      "to finish class",
+      "to get out of class",
+      "(fig.) (esp. of a sports coach) to be dismissed",
+      "to be fired"
+    ],
+    "frequency": 9694,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "下午",
+    "simplified": "下午",
+    "pinyin": "xià wǔ",
+    "meanings": [
+      "afternoon",
+      "p.m."
+    ],
+    "frequency": 782,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "下雨",
+    "simplified": "下雨",
+    "pinyin": "xià yǔ",
+    "meanings": [
+      "to rain"
+    ],
+    "frequency": 5648,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "先生",
+    "simplified": "先生",
+    "pinyin": "xiān sheng",
+    "meanings": [
+      "teacher",
+      "gentleman; sir; mister (Mr.)",
+      "husband",
+      "(dialect) doctor"
+    ],
+    "frequency": 586,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "现在",
+    "simplified": "现在",
+    "pinyin": "xiàn zài",
+    "meanings": [
+      "now",
+      "at present",
+      "at the moment",
+      "modern",
+      "current",
+      "nowadays"
+    ],
+    "frequency": 77,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "想",
+    "simplified": "想",
+    "pinyin": "xiǎng",
+    "meanings": [
+      "to think (about)",
+      "to think of; to devise",
+      "to think (that); to believe (that)",
+      "to desire; to want (to)",
+      "to miss (feel wistful about the absence of)"
+    ],
+    "frequency": 44,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "小",
+    "simplified": "小",
+    "pinyin": "xiǎo",
+    "meanings": [
+      "small",
+      "tiny",
+      "few",
+      "young"
+    ],
+    "frequency": 100,
+    "pos": [
+      "a",
+      "ad"
+    ]
+  },
+  {
+    "id": "小朋友",
+    "simplified": "小朋友",
+    "pinyin": "xiǎo péng yǒu",
+    "meanings": [
+      "child"
+    ],
+    "frequency": 4536,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "小时",
+    "simplified": "小时",
+    "pinyin": "xiǎo shí",
+    "meanings": [
+      "hour"
+    ],
+    "frequency": 389,
+    "pos": [
+      "n",
+      "q"
+    ]
+  },
+  {
+    "id": "小学",
+    "simplified": "小学",
+    "pinyin": "xiǎo xué",
+    "meanings": [
+      "elementary school; primary school"
+    ],
+    "frequency": 3819,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "小学生",
+    "simplified": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "meanings": [
+      "primary school student",
+      "schoolchild",
+      "(fig.) beginner"
+    ],
+    "frequency": 12165,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "些",
+    "simplified": "些",
+    "pinyin": "xiē",
+    "meanings": [
+      "classifier indicating a small amount or small number greater than 1: some, a few, several"
+    ],
+    "frequency": 611,
+    "pos": [
+      "q"
+    ]
+  },
+  {
+    "id": "写",
+    "simplified": "写",
+    "pinyin": "xiě",
+    "meanings": [
+      "to write"
+    ],
+    "frequency": 352,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "谢谢",
+    "simplified": "谢谢",
+    "pinyin": "xiè xie",
+    "meanings": [
+      "to thank",
+      "thanks",
+      "thank you"
+    ],
+    "frequency": 520,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "新",
+    "simplified": "新",
+    "pinyin": "Xīn",
+    "meanings": [
+      "abbr. for Xinjiang 疆 or Singapore 坡",
+      "surname Xin"
+    ],
+    "frequency": 150,
+    "pos": [
+      "a",
+      "d",
+      "b"
+    ]
+  },
+  {
+    "id": "星期",
+    "simplified": "星期",
+    "pinyin": "xīng qī",
+    "meanings": [
+      "week",
+      "day of the week",
+      "Sunday"
+    ],
+    "frequency": 1956,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "星期日",
+    "simplified": "星期日",
+    "pinyin": "Xīng qī rì",
+    "meanings": [
+      "Sunday"
+    ],
+    "frequency": 12997,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "星期天",
+    "simplified": "星期天",
+    "pinyin": "Xīng qī tiān",
+    "meanings": [
+      "Sunday"
+    ],
+    "frequency": 7577,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "休息",
+    "simplified": "休息",
+    "pinyin": "xiū xi",
+    "meanings": [
+      "rest",
+      "to rest"
+    ],
+    "frequency": 1225,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "学",
+    "simplified": "学",
+    "pinyin": "xué",
+    "meanings": [
+      "to learn",
+      "to study",
+      "to imitate",
+      "science",
+      "-ology"
+    ],
+    "frequency": 524,
+    "pos": [
+      "v",
+      "g"
+    ]
+  },
+  {
+    "id": "学生",
+    "simplified": "学生",
+    "pinyin": "xué sheng",
+    "meanings": [
+      "student",
+      "schoolchild"
+    ],
+    "frequency": 651,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "学习",
+    "simplified": "学习",
+    "pinyin": "xué xí",
+    "meanings": [
+      "to learn",
+      "to study"
+    ],
+    "frequency": 789,
+    "pos": [
+      "v",
+      "vn"
+    ]
+  },
+  {
+    "id": "学校",
+    "simplified": "学校",
+    "pinyin": "xué xiào",
+    "meanings": [
+      "school"
+    ],
+    "frequency": 430,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "雪",
+    "simplified": "雪",
+    "pinyin": "Xuě",
+    "meanings": [
+      "surname Xue"
+    ],
+    "frequency": 1971,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "要",
+    "simplified": "要",
+    "pinyin": "yāo",
+    "meanings": [
+      "(bound form) to demand; to coerce"
+    ],
+    "frequency": 19,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "也",
+    "simplified": "也",
+    "pinyin": "Yě",
+    "meanings": [
+      "surname Ye"
+    ],
+    "frequency": 23,
+    "pos": [
+      "d",
+      "y",
+      "u",
+      "b"
+    ]
+  },
+  {
+    "id": "一",
+    "simplified": "一",
+    "pinyin": "yī",
+    "meanings": [
+      "one",
+      "single",
+      "a (article)",
+      "as soon as",
+      "entire; whole; all; throughout",
+      "\"one\" radical in Chinese characters (Kangxi radical 1)",
+      "also pr. [yāo] for greater clarity when spelling out numbers digit by digit"
+    ],
+    "frequency": 21,
+    "pos": [
+      "m",
+      "d",
+      "t"
+    ]
+  },
+  {
+    "id": "一半",
+    "simplified": "一半",
+    "pinyin": "yī bàn",
+    "meanings": [
+      "half"
+    ],
+    "frequency": 1554,
+    "pos": [
+      "m"
+    ]
+  },
+  {
+    "id": "一点儿",
+    "simplified": "一点儿",
+    "pinyin": "yī diǎn r",
+    "meanings": [
+      "erhua variant of 一点",
+      "a bit; a little bit",
+      "(used in negative expressions) (not) the least bit",
+      "(after an adjective, used to form the comparative) a bit more"
+    ],
+    "frequency": 6921,
+    "pos": [
+      "mq"
+    ]
+  },
+  {
+    "id": "一些",
+    "simplified": "一些",
+    "pinyin": "yī xiē",
+    "meanings": [
+      "some",
+      "a few",
+      "a little",
+      "(following an adjective) slightly ...er"
+    ],
+    "frequency": 187,
+    "pos": [
+      "mq"
+    ]
+  },
+  {
+    "id": "衣服",
+    "simplified": "衣服",
+    "pinyin": "yī fu",
+    "meanings": [
+      "clothes"
+    ],
+    "frequency": 1472,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "医生",
+    "simplified": "医生",
+    "pinyin": "yī shēng",
+    "meanings": [
+      "doctor"
+    ],
+    "frequency": 827,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "医院",
+    "simplified": "医院",
+    "pinyin": "yī yuàn",
+    "meanings": [
+      "hospital"
+    ],
+    "frequency": 608,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "椅子",
+    "simplified": "椅子",
+    "pinyin": "yǐ zi",
+    "meanings": [
+      "chair"
+    ],
+    "frequency": 4472,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "有",
+    "simplified": "有",
+    "pinyin": "yǒu",
+    "meanings": [
+      "to have; there is",
+      "(bound form) having; with; -ful; -ed; -al (as in 意 intentional)"
+    ],
+    "frequency": 9,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "有的",
+    "simplified": "有的",
+    "pinyin": "yǒu de",
+    "meanings": [
+      "(there are) some (who are...)",
+      "some (exist)"
+    ],
+    "frequency": 1300,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "有点儿",
+    "simplified": "有点儿",
+    "pinyin": "yǒu diǎn r",
+    "meanings": [
+      "slightly",
+      "a little",
+      "somewhat"
+    ],
+    "frequency": 11175,
+    "pos": []
+  },
+  {
+    "id": "有些",
+    "simplified": "有些",
+    "pinyin": "yǒu xiē",
+    "meanings": [
+      "some",
+      "somewhat"
+    ],
+    "frequency": 394,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "雨",
+    "simplified": "雨",
+    "pinyin": "yǔ",
+    "meanings": [
+      "rain"
+    ],
+    "frequency": 1929,
+    "pos": [
+      "n",
+      "g"
+    ]
+  },
+  {
+    "id": "元",
+    "simplified": "元",
+    "pinyin": "Yuán",
+    "meanings": [
+      "surname Yuan",
+      "the Yuan or Mongol dynasty (1279-1368)"
+    ],
+    "frequency": 744,
+    "pos": [
+      "q",
+      "tg"
+    ]
+  },
+  {
+    "id": "月",
+    "simplified": "月",
+    "pinyin": "yuè",
+    "meanings": [
+      "moon",
+      "month",
+      "monthly"
+    ],
+    "frequency": 161,
+    "pos": [
+      "n",
+      "t"
+    ]
+  },
+  {
+    "id": "再",
+    "simplified": "再",
+    "pinyin": "zài",
+    "meanings": [
+      "again; once more; re-",
+      "second; another",
+      "then (after sth, and not until then)",
+      "no matter how ... (followed by an adjective or verb, and then (usually) 也 or 都 for emphasis)"
+    ],
+    "frequency": 91,
+    "pos": [
+      "d",
+      "g"
+    ]
+  },
+  {
+    "id": "再见",
+    "simplified": "再见",
+    "pinyin": "zài jiàn",
+    "meanings": [
+      "goodbye",
+      "see you again later"
+    ],
+    "frequency": 2487,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "在",
+    "simplified": "在",
+    "pinyin": "zài",
+    "meanings": [
+      "to exist; to be alive",
+      "(of sb or sth) to be (located) at",
+      "(used before a verb to indicate an action in progress)"
+    ],
+    "frequency": 5,
+    "pos": [
+      "p",
+      "v",
+      "d"
+    ]
+  },
+  {
+    "id": "早",
+    "simplified": "早",
+    "pinyin": "zǎo",
+    "meanings": [
+      "early",
+      "morning",
+      "Good morning!",
+      "long ago",
+      "prematurely"
+    ],
+    "frequency": 445,
+    "pos": [
+      "ad",
+      "a",
+      "tg"
+    ]
+  },
+  {
+    "id": "早饭",
+    "simplified": "早饭",
+    "pinyin": "zǎo fàn",
+    "meanings": [
+      "breakfast"
+    ],
+    "frequency": 6748,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "早上",
+    "simplified": "早上",
+    "pinyin": "zǎo shang",
+    "meanings": [
+      "early morning"
+    ],
+    "frequency": 1092,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "怎么",
+    "simplified": "怎么",
+    "pinyin": "zěn me",
+    "meanings": [
+      "how?",
+      "what?",
+      "why?"
+    ],
+    "frequency": 128,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "怎么样",
+    "simplified": "怎么样",
+    "pinyin": "zěn me yàng",
+    "meanings": [
+      "how?",
+      "how about?",
+      "how was it?",
+      "how are things?"
+    ],
+    "frequency": 1367,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "找",
+    "simplified": "找",
+    "pinyin": "zhǎo",
+    "meanings": [
+      "to try to find",
+      "to look for",
+      "to call on sb",
+      "to find",
+      "to seek",
+      "to return",
+      "to give change"
+    ],
+    "frequency": 152,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "这",
+    "simplified": "这",
+    "pinyin": "zhè",
+    "meanings": [
+      "(pronoun) this; these",
+      "(bound form) this; the (followed by a noun)",
+      "(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"
+    ],
+    "frequency": 11,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "这边",
+    "simplified": "这边",
+    "pinyin": "zhè biān",
+    "meanings": [
+      "this side",
+      "here"
+    ],
+    "frequency": 2774,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "这儿",
+    "simplified": "这儿",
+    "pinyin": "zhè r",
+    "meanings": [
+      "here"
+    ],
+    "frequency": 2522,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "这里",
+    "simplified": "这里",
+    "pinyin": "zhè lǐ",
+    "meanings": [
+      "variant of 这里"
+    ],
+    "frequency": 209,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "这些",
+    "simplified": "这些",
+    "pinyin": "zhè xiē",
+    "meanings": [
+      "these"
+    ],
+    "frequency": 132,
+    "pos": [
+      "r"
+    ]
+  },
+  {
+    "id": "真",
+    "simplified": "真",
+    "pinyin": "zhēn",
+    "meanings": [
+      "really",
+      "truly",
+      "indeed",
+      "real",
+      "true",
+      "genuine"
+    ],
+    "frequency": 76,
+    "pos": [
+      "d",
+      "a",
+      "g"
+    ]
+  },
+  {
+    "id": "正在",
+    "simplified": "正在",
+    "pinyin": "zhèng zài",
+    "meanings": [
+      "just at (that time)",
+      "right in (that place)",
+      "right in the middle of (doing sth)"
+    ],
+    "frequency": 420,
+    "pos": [
+      "d"
+    ]
+  },
+  {
+    "id": "知道",
+    "simplified": "知道",
+    "pinyin": "zhī dào",
+    "meanings": [
+      "to know; to become aware of",
+      "also pr. [zhī dao]"
+    ],
+    "frequency": 105,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "只",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "meanings": [
+      "only",
+      "merely",
+      "just",
+      "but"
+    ],
+    "frequency": 98,
+    "pos": [
+      "d",
+      "q"
+    ]
+  },
+  {
+    "id": "中国",
+    "simplified": "中国",
+    "pinyin": "Zhōng guó",
+    "meanings": [
+      "China"
+    ],
+    "frequency": 729,
+    "pos": [
+      "ns"
+    ]
+  },
+  {
+    "id": "中文",
+    "simplified": "中文",
+    "pinyin": "Zhōng wén",
+    "meanings": [
+      "Chinese language"
+    ],
+    "frequency": 6459,
+    "pos": [
+      "nz"
+    ]
+  },
+  {
+    "id": "中午",
+    "simplified": "中午",
+    "pinyin": "zhōng wǔ",
+    "meanings": [
+      "noon",
+      "midday"
+    ],
+    "frequency": 2600,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "中学",
+    "simplified": "中学",
+    "pinyin": "zhōng xué",
+    "meanings": [
+      "middle school"
+    ],
+    "frequency": 4042,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "中学生",
+    "simplified": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "meanings": [
+      "middle-school student",
+      "high school student"
+    ],
+    "frequency": 12707,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "住",
+    "simplified": "住",
+    "pinyin": "zhù",
+    "meanings": [
+      "to live",
+      "to dwell",
+      "to stay",
+      "to reside",
+      "to stop",
+      "(suffix indicating firmness, steadiness, or coming to a halt)"
+    ],
+    "frequency": 280,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "桌子",
+    "simplified": "桌子",
+    "pinyin": "zhuō zi",
+    "meanings": [
+      "table",
+      "desk"
+    ],
+    "frequency": 3639,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "字",
+    "simplified": "字",
+    "pinyin": "zì",
+    "meanings": [
+      "letter",
+      "symbol",
+      "character",
+      "word",
+      "courtesy or style name traditionally given to males aged 20 in dynastic China"
+    ],
+    "frequency": 913,
+    "pos": [
+      "n"
+    ]
+  },
+  {
+    "id": "昨天",
+    "simplified": "昨天",
+    "pinyin": "zuó tiān",
+    "meanings": [
+      "yesterday"
+    ],
+    "frequency": 557,
+    "pos": [
+      "t"
+    ]
+  },
+  {
+    "id": "坐",
+    "simplified": "坐",
+    "pinyin": "Zuò",
+    "meanings": [
+      "surname Zuo"
+    ],
+    "frequency": 435,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "做",
+    "simplified": "做",
+    "pinyin": "zuò",
+    "meanings": [
+      "to make; to produce",
+      "to write; to compose",
+      "to do; to engage in; to hold (a party etc)",
+      "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+      "(of a thing) to serve as; to be used for",
+      "to assume (an air or manner)"
+    ],
+    "frequency": 53,
+    "pos": [
+      "v"
+    ]
+  },
+  {
+    "id": "做饭",
+    "simplified": "做饭",
+    "pinyin": "zuò fàn",
+    "meanings": [
+      "to prepare a meal",
+      "to cook"
+    ],
+    "frequency": 5512,
+    "pos": [
+      "v"
+    ]
+  }
+]
