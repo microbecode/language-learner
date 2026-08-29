@@ -102,6 +102,26 @@ button:hover {
   gap: 0.5rem;
 }
 
+.grades button {
+  padding: 0.75rem 0.25rem;
+  min-height: 2.75rem;
+}
+
+/* Four across does not fit a phone; two rows of two are also easier to thumb. */
+@media (max-width: 26rem) {
+  .grades {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .hanzi {
+    font-size: 4rem;
+  }
+
+  main {
+    padding: 1.25rem 1rem 3rem;
+  }
+}
+
 .muted {
   color: var(--muted);
   font-size: 0.9rem;
