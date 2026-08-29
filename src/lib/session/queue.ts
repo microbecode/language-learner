@@ -51,10 +51,38 @@ export function newCards(deck: Word[], progress: Progress, now: Date): SessionCa
   return cards
 }
 
-/** Interleaves due cards with new words so neither is front-loaded. */
-export function buildQueue(deck: Word[], progress: Progress, now: Date): SessionCard[] {
-  const due = dueCards(deck, progress, now)
-  const fresh = newCards(deck, progress, now)
+/**
+ * Fisher-Yates on a copy. Deterministic given `rng`, which is what keeps
+ * buildQueue testable despite being randomised.
+ */
+export function shuffle<T>(items: T[], rng: () => number): T[] {
+  const next = [...items]
+  for (let i = next.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(rng() * (i + 1))
+    const a = next[i]!
+    const b = next[j]!
+    next[i] = b
+    next[j] = a
+  }
+  return next
+}
+
+/**
+ * Interleaves due cards with new words so neither is front-loaded, shuffling
+ * each list first so a session does not replay the same sequence every time.
+ *
+ * Only the order is randomised. Which new words are introduced is still
+ * decided by ascending frequency in newCards, so the most common unlearned
+ * words are always the ones taught next.
+ */
+export function buildQueue(
+  deck: Word[],
+  progress: Progress,
+  now: Date,
+  rng: () => number = Math.random,
+): SessionCard[] {
+  const due = shuffle(dueCards(deck, progress, now), rng)
+  const fresh = shuffle(newCards(deck, progress, now), rng)
   const queue: SessionCard[] = []
   for (let i = 0; i < Math.max(due.length, fresh.length); i += 1) {
     const dueCard = due[i]

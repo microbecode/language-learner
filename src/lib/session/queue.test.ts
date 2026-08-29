@@ -6,6 +6,7 @@ import type { Progress } from '../storage/types'
 import {
   REQUEUE_GAP,
   buildQueue,
+  shuffle,
   dueCards,
   newAllowance,
   newCards,
@@ -14,6 +15,15 @@ import {
 } from './queue'
 
 const NOW = new Date('2026-08-28T10:00:00.000Z')
+
+/** Fisher-Yates picks j === i for any value just under 1, so nothing moves. */
+const noShuffle = () => 0.999999999
+
+/** Cycles a fixed sequence so a shuffled order is reproducible in a test. */
+function fixedRng(values: number[]): () => number {
+  let i = 0
+  return () => values[i++ % values.length]!
+}
 
 function word(id: string, frequency: number): Word {
   return { id, simplified: id, pinyin: 'x', meanings: ['x'], frequency, pos: [] }
@@ -101,7 +111,7 @@ describe('buildQueue', () => {
   it('interleaves due cards with new words', () => {
     const past = { ...introduceCard('我'), status: 'review' as const, due: '2026-08-27T10:00:00.000Z' }
     const progress = progressWith({ newPerDay: 2, cards: { 我: past } })
-    expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual(['我', '的', '爱'])
+    expect(buildQueue(DECK, progress, NOW, noShuffle).map((c) => c.word.id)).toEqual(['我', '的', '爱'])
   })
 
   it('interleaves when due cards outnumber new words', () => {
@@ -116,7 +126,7 @@ describe('buildQueue', () => {
       newPerDay: 1,
       cards: { 的: review('的'), 我: review('我'), 爱: review('爱') },
     })
-    expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual([
+    expect(buildQueue(DECK, progress, NOW, noShuffle).map((c) => c.word.id)).toEqual([
       '的',
       '学校',
       '我',
@@ -131,7 +141,23 @@ describe('buildQueue', () => {
       cards: { 我: past },
       introduced: { date: todayKey(NOW), count: 2 },
     })
-    expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual(['我'])
+    expect(buildQueue(DECK, progress, NOW, noShuffle).map((c) => c.word.id)).toEqual(['我'])
+  })
+
+  it('varies the order between sessions', () => {
+    const progress = progressWith({ newPerDay: 4 })
+    const ordered = buildQueue(DECK, progress, NOW, noShuffle).map((c) => c.word.id)
+    const shuffled = buildQueue(DECK, progress, NOW, fixedRng([0, 0, 0])).map((c) => c.word.id)
+    expect(shuffled).not.toEqual(ordered)
+    expect([...shuffled].sort()).toEqual([...ordered].sort())
+  })
+
+  it('still introduces the most frequent unlearned words whatever the order', () => {
+    // Randomising presentation must not randomise the curriculum: the two
+    // lowest-frequency words are the ones taught, in whatever order.
+    const progress = progressWith({ newPerDay: 2 })
+    const ids = buildQueue(DECK, progress, NOW, fixedRng([0, 0.5, 0.9])).map((c) => c.word.id)
+    expect([...ids].sort()).toEqual(['我', '的'].sort())
   })
 
   it('is empty when nothing is due and the quota is spent', () => {
@@ -139,7 +165,24 @@ describe('buildQueue', () => {
       newPerDay: 1,
       introduced: { date: todayKey(NOW), count: 1 },
     })
-    expect(buildQueue(DECK, progress, NOW)).toEqual([])
+    expect(buildQueue(DECK, progress, NOW, noShuffle)).toEqual([])
+  })
+})
+
+describe('shuffle', () => {
+  it('keeps every element, losing and duplicating none', () => {
+    const items = [1, 2, 3, 4, 5]
+    expect([...shuffle(items, fixedRng([0.1, 0.7, 0.3, 0.9]))].sort()).toEqual(items)
+  })
+
+  it('does not mutate its input', () => {
+    const items = [1, 2, 3, 4, 5]
+    shuffle(items, fixedRng([0.1, 0.7, 0.3, 0.9]))
+    expect(items).toEqual([1, 2, 3, 4, 5])
+  })
+
+  it('leaves order untouched when the rng never selects a swap', () => {
+    expect(shuffle([1, 2, 3, 4, 5], noShuffle)).toEqual([1, 2, 3, 4, 5])
   })
 })
 
