@@ -34,6 +34,16 @@ button:hover {
   border-color: var(--accent);
 }
 
+/* The hanzi is the whole point of the app, so name Chinese faces explicitly
+ * rather than trusting a generic sans-serif to have the glyphs. A machine with
+ * no CJK font installed renders every card as an empty box. */
+.hanzi,
+.component-char {
+  font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
+    'Noto Sans CJK SC', 'Noto Sans SC', 'Source Han Sans SC',
+    'WenQuanYi Micro Hei', sans-serif;
+}
+
 .hanzi {
   font-size: 5rem;
   line-height: 1.2;
