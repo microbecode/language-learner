@@ -53,6 +53,42 @@ button:hover {
   margin: 0.5rem 0 2rem;
 }
 
+.components {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.components li {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 0.75rem;
+  padding: 0.35rem 0;
+  align-items: baseline;
+}
+
+.component-char {
+  font-size: 1.5rem;
+  grid-row: span 2;
+}
+
+.component-gloss {
+  color: var(--fg);
+  font-size: 0.9rem;
+}
+
+.component-also {
+  grid-column: 2;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.muted-em {
+  color: var(--muted);
+  font-style: italic;
+}
+
 .grades {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

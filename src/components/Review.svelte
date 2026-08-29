@@ -34,6 +34,24 @@
     <div class="meanings" data-testid="card-meanings">
       {app.current.word.meanings.join('; ')}
     </div>
+
+    {#if app.currentComponents.length > 0}
+      <ul class="components" data-testid="card-components">
+        {#each app.currentComponents as part}
+          <li>
+            <span class="component-char">{part.character}</span>
+            {#if part.gloss}
+              <span class="component-gloss">{part.gloss}</span>
+            {:else}
+              <span class="component-gloss muted-em">not taught alone</span>
+            {/if}
+            {#if part.alsoIn.length > 0}
+              <span class="component-also">also in {part.alsoIn.join(' · ')}</span>
+            {/if}
+          </li>
+        {/each}
+      </ul>
+    {/if}
     <div class="grades">
       <button data-testid="grade-again" onclick={() => app.grade('again')}>Again</button>
       <button data-testid="grade-hard" onclick={() => app.grade('hard')}>Hard</button>

@@ -72,9 +72,11 @@
   {
     "id": "百",
     "simplified": "百",
-    "pinyin": "Bǎi",
+    "pinyin": "bǎi",
     "meanings": [
-      "surname Bai"
+      "hundred",
+      "numerous",
+      "all kinds of"
     ],
     "frequency": 2455,
     "pos": [
@@ -295,9 +297,13 @@
   {
     "id": "车",
     "simplified": "车",
-    "pinyin": "Chē",
+    "pinyin": "chē",
     "meanings": [
-      "surname Che"
+      "car",
+      "vehicle",
+      "machine",
+      "to shape with a lathe",
+      "Kangxi radical 159"
     ],
     "frequency": 186,
     "pos": [
@@ -612,9 +618,12 @@
   {
     "id": "都",
     "simplified": "都",
-    "pinyin": "Dū",
+    "pinyin": "dōu",
     "meanings": [
-      "surname Du"
+      "all; both; entirely",
+      "(used for emphasis) even",
+      "already",
+      "(not) at all"
     ],
     "frequency": 25,
     "pos": [
@@ -901,9 +910,10 @@
   {
     "id": "个",
     "simplified": "个",
-    "pinyin": "gě",
+    "pinyin": "gè",
     "meanings": [
-      "used in 自个儿"
+      "(classifier used before a noun that has no specific classifier)",
+      "(bound form) individual"
     ],
     "frequency": 19,
     "pos": [
@@ -996,9 +1006,10 @@
   {
     "id": "国",
     "simplified": "国",
-    "pinyin": "Guó",
+    "pinyin": "guó",
     "meanings": [
-      "surname Guo"
+      "country; nation; state",
+      "(bound form) national"
     ],
     "frequency": 1527,
     "pos": [
@@ -1008,9 +1019,20 @@
   {
     "id": "还",
     "simplified": "还",
-    "pinyin": "Huán",
+    "pinyin": "hái",
     "meanings": [
-      "surname Huan"
+      "still",
+      "still in progress",
+      "still more",
+      "yet",
+      "even more",
+      "in addition",
+      "fairly",
+      "passably (good)",
+      "as early as",
+      "even",
+      "also",
+      "else"
     ],
     "frequency": 37,
     "pos": [
@@ -1200,9 +1222,12 @@
   {
     "id": "后",
     "simplified": "后",
-    "pinyin": "Hòu",
+    "pinyin": "hòu",
     "meanings": [
-      "surname Hou"
+      "empress",
+      "queen",
+      "(archaic) monarch",
+      "ruler"
     ],
     "frequency": 115,
     "pos": [
@@ -1294,7 +1319,12 @@
     "simplified": "家",
     "pinyin": "jiā",
     "meanings": [
-      "used in 家伙 and 家俱"
+      "home",
+      "family",
+      "(polite) my (sister, uncle etc)",
+      "classifier for families or businesses",
+      "refers to the philosophical schools of pre-Han China",
+      "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian"
     ],
     "frequency": 124,
     "pos": [
@@ -1644,9 +1674,9 @@
   {
     "id": "冷",
     "simplified": "冷",
-    "pinyin": "Lěng",
+    "pinyin": "lěng",
     "meanings": [
-      "surname Leng"
+      "cold"
     ],
     "frequency": 1027,
     "pos": [
@@ -1660,7 +1690,11 @@
     "simplified": "里",
     "pinyin": "lǐ",
     "meanings": [
-      "variant of 里"
+      "lining",
+      "interior",
+      "inside",
+      "internal",
+      "also written 里"
     ],
     "frequency": 75,
     "pos": [
@@ -2000,9 +2034,11 @@
   {
     "id": "那",
     "simplified": "那",
-    "pinyin": "Nā",
+    "pinyin": "nà",
     "meanings": [
-      "surname Na"
+      "(specifier) that; the; those (colloquial pr. [nèi])",
+      "(pronoun) that (referring to persons, things or situations)",
+      "then (in that case)"
     ],
     "frequency": 48,
     "pos": [
@@ -2104,9 +2140,13 @@
   {
     "id": "能",
     "simplified": "能",
-    "pinyin": "Néng",
+    "pinyin": "néng",
     "meanings": [
-      "surname Neng"
+      "can",
+      "to be able to",
+      "might possibly",
+      "ability",
+      "(physics) energy"
     ],
     "frequency": 46,
     "pos": [
@@ -2141,9 +2181,9 @@
   {
     "id": "年",
     "simplified": "年",
-    "pinyin": "Nián",
+    "pinyin": "nián",
     "meanings": [
-      "surname Nian"
+      "year"
     ],
     "frequency": 79,
     "pos": [
@@ -2333,9 +2373,11 @@
   {
     "id": "钱",
     "simplified": "钱",
-    "pinyin": "Qián",
+    "pinyin": "qián",
     "meanings": [
-      "surname Qian"
+      "coin",
+      "money",
+      "unit of weight, one tenth of a tael 两"
     ],
     "frequency": 218,
     "pos": [
@@ -2480,9 +2522,10 @@
   {
     "id": "三",
     "simplified": "三",
-    "pinyin": "Sān",
+    "pinyin": "sān",
     "meanings": [
-      "surname San"
+      "three",
+      "3"
     ],
     "frequency": 233,
     "pos": [
@@ -2505,9 +2548,14 @@
   {
     "id": "上",
     "simplified": "上",
-    "pinyin": "shǎng",
+    "pinyin": "shàng",
     "meanings": [
-      "used in 上声"
+      "(bound form) up; upper; above; previous",
+      "first (of multiple parts)",
+      "to climb; to get onto; to go up",
+      "to attend (class or university)",
+      "(directional complement) up",
+      "(noun suffix) on; above"
     ],
     "frequency": 29,
     "pos": [
@@ -2747,9 +2795,14 @@
   {
     "id": "水",
     "simplified": "水",
-    "pinyin": "Shuǐ",
+    "pinyin": "shuǐ",
     "meanings": [
-      "surname Shui"
+      "water",
+      "river",
+      "liquid",
+      "beverage",
+      "additional charges or income",
+      "(of clothes) classifier for number of washes"
     ],
     "frequency": 335,
     "pos": [
@@ -2846,8 +2899,9 @@
     "simplified": "岁",
     "pinyin": "suì",
     "meanings": [
-      "variant of 岁, year",
-      "years old"
+      "classifier for years (of age)",
+      "year",
+      "year (of crop harvests)"
     ],
     "frequency": 266,
     "pos": [
@@ -3571,9 +3625,10 @@
   {
     "id": "雪",
     "simplified": "雪",
-    "pinyin": "Xuě",
+    "pinyin": "xuě",
     "meanings": [
-      "surname Xue"
+      "snow",
+      "(literary) to wipe away (a humiliation etc)"
     ],
     "frequency": 1971,
     "pos": [
@@ -3595,9 +3650,10 @@
   {
     "id": "也",
     "simplified": "也",
-    "pinyin": "Yě",
+    "pinyin": "yě",
     "meanings": [
-      "surname Ye"
+      "(adverb) also; both ... and ... (before predicates only)",
+      "(literary) particle having functions similar to 啊"
     ],
     "frequency": 23,
     "pos": [
@@ -3784,10 +3840,20 @@
   {
     "id": "元",
     "simplified": "元",
-    "pinyin": "Yuán",
+    "pinyin": "yuán",
     "meanings": [
-      "surname Yuan",
-      "the Yuan or Mongol dynasty (1279-1368)"
+      "currency unit (esp. Chinese yuan)",
+      "first",
+      "original",
+      "primary",
+      "fundamental",
+      "constituent",
+      "part",
+      "era (of a reign)",
+      "meta- (prefix)",
+      "(math.) argument",
+      "variable",
+      "(Tw) (geology) eon"
     ],
     "frequency": 744,
     "pos": [
@@ -3988,7 +4054,7 @@
     "simplified": "这里",
     "pinyin": "zhè lǐ",
     "meanings": [
-      "variant of 这里"
+      "here"
     ],
     "frequency": 209,
     "pos": [
@@ -4192,9 +4258,13 @@
   {
     "id": "坐",
     "simplified": "坐",
-    "pinyin": "Zuò",
+    "pinyin": "zuò",
     "meanings": [
-      "surname Zuo"
+      "to sit",
+      "to take a seat",
+      "to take (a bus, airplane etc)",
+      "to bear fruit",
+      "variant of 座"
     ],
     "frequency": 435,
     "pos": [

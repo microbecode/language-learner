@@ -1,4 +1,5 @@
 import { loadDeck } from '../deck/deck'
+import { buildCharacterIndex, decomposeWord, type Component } from '../deck/decompose'
 import type { Word } from '../deck/types'
 import { schedule } from '../scheduler/schedule'
 import type { Grade } from '../scheduler/types'
@@ -28,6 +29,7 @@ function emptyTally(): Tally {
 
 export class AppStore {
   readonly deck: Word[] = loadDeck()
+  readonly #characterIndex = buildCharacterIndex(this.deck)
   progress = $state<Progress>(defaultProgress())
   screen = $state<Screen>('home')
   queue = $state<SessionCard[]>([])
@@ -63,6 +65,12 @@ export class AppStore {
 
   get remaining(): number {
     return this.queue.length
+  }
+
+  /** The characters the current word is built from; empty for single characters. */
+  get currentComponents(): Component[] {
+    const card = this.current
+    return card ? decomposeWord(card.word, this.#characterIndex) : []
   }
 
   #persist(): void {
