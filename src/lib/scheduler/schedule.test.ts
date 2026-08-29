@@ -1,6 +1,15 @@
 import { describe, expect, it } from 'vitest'
-import { introduceCard, schedule, MAX_INTERVAL_DAYS, MIN_EASE, STARTING_EASE } from './schedule'
-import type { CardState } from './types'
+import {
+  introduceCard,
+  schedule,
+  LEARNING_STEPS,
+  MAX_INTERVAL_DAYS,
+  MIN_EASE,
+  STARTING_EASE,
+} from './schedule'
+import type { CardState, Grade } from './types'
+
+const GRADES: Grade[] = ['again', 'hard', 'good', 'easy']
 
 const NOW = new Date('2026-08-28T10:00:00.000Z')
 
@@ -21,6 +30,15 @@ function reviewCard(overrides: Partial<CardState> = {}): CardState {
     ...overrides,
   }
 }
+
+describe('scheduler constants', () => {
+  it('pins the values the scheduling rules are stated in terms of', () => {
+    expect(STARTING_EASE).toBe(2.5)
+    expect(MIN_EASE).toBe(1.3)
+    expect(MAX_INTERVAL_DAYS).toBe(365)
+    expect(LEARNING_STEPS).toBe(2)
+  })
+})
 
 describe('introduceCard', () => {
   it('starts a word in learning at step 0 with no due date', () => {
@@ -93,7 +111,7 @@ describe('schedule, while reviewing', () => {
   it('raises ease and boosts the interval on "easy"', () => {
     const next = schedule(reviewCard({ intervalDays: 10, ease: 2.5 }), 'easy', NOW)
     expect(next.ease).toBeCloseTo(2.65, 10)
-    expect(next.intervalDays).toBe(Math.round(10 * 2.65 * 1.3))
+    expect(next.intervalDays).toBe(34)
   })
 
   it('sends "again" back to learning as a lapse', () => {
@@ -133,20 +151,33 @@ describe('schedule, bounds', () => {
     expect(next.intervalDays).toBe(MAX_INTERVAL_DAYS)
   })
 
-  it('never produces an interval below one day', () => {
-    const next = schedule(reviewCard({ intervalDays: 1, ease: MIN_EASE }), 'hard', NOW)
-    expect(next.intervalDays).toBeGreaterThanOrEqual(1)
+  it('floors a zero interval at one day', () => {
+    // Unreachable through this module's own transitions; the floor exists to
+    // contain an intervalDays of 0 loaded from corrupted storage.
+    const next = schedule(reviewCard({ intervalDays: 0, ease: MIN_EASE }), 'hard', NOW)
+    expect(next.intervalDays).toBe(1)
   })
 
-  it('increments reps on every grading', () => {
-    expect(schedule(reviewCard({ reps: 7 }), 'good', NOW).reps).toBe(8)
-    expect(schedule(reviewCard({ reps: 7 }), 'again', NOW).reps).toBe(8)
+  it.each(GRADES)('increments reps when a review card is graded "%s"', (grade) => {
+    expect(schedule(reviewCard({ reps: 7 }), grade, NOW).reps).toBe(8)
   })
 
-  it('does not mutate the input state', () => {
+  it.each(GRADES)('increments reps when a learning card is graded "%s"', (grade) => {
+    const learning = { ...introduceCard('爱'), reps: 3 }
+    expect(schedule(learning, grade, NOW).reps).toBe(4)
+  })
+
+  it.each(GRADES)('does not mutate a review card graded "%s"', (grade) => {
     const original = reviewCard({ intervalDays: 10 })
-    const snapshot = { ...original }
-    schedule(original, 'good', NOW)
+    const snapshot = structuredClone(original)
+    schedule(original, grade, NOW)
+    expect(original).toEqual(snapshot)
+  })
+
+  it.each(GRADES)('does not mutate a learning card graded "%s"', (grade) => {
+    const original = introduceCard('爱')
+    const snapshot = structuredClone(original)
+    schedule(original, grade, NOW)
     expect(original).toEqual(snapshot)
   })
 })

@@ -104,6 +104,36 @@ describe('buildQueue', () => {
     expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual(['我', '的', '爱'])
   })
 
+  it('interleaves when due cards outnumber new words', () => {
+    // The mirror of the case above: the previous test only covered due being
+    // the shorter list, so the loop's other guard went unexercised.
+    const review = (id: string) => ({
+      ...introduceCard(id),
+      status: 'review' as const,
+      due: '2026-08-27T10:00:00.000Z',
+    })
+    const progress = progressWith({
+      newPerDay: 1,
+      cards: { 的: review('的'), 我: review('我'), 爱: review('爱') },
+    })
+    expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual([
+      '的',
+      '学校',
+      '我',
+      '爱',
+    ])
+  })
+
+  it('returns due cards alone once the new quota is spent', () => {
+    const past = { ...introduceCard('我'), status: 'review' as const, due: '2026-08-27T10:00:00.000Z' }
+    const progress = progressWith({
+      newPerDay: 2,
+      cards: { 我: past },
+      introduced: { date: todayKey(NOW), count: 2 },
+    })
+    expect(buildQueue(DECK, progress, NOW).map((c) => c.word.id)).toEqual(['我'])
+  })
+
   it('is empty when nothing is due and the quota is spent', () => {
     const progress = progressWith({
       newPerDay: 1,
