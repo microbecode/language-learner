@@ -1,6 +1,7 @@
 import { beforeEach, describe, expect, it } from 'vitest'
 import { introduceCard } from '../scheduler/schedule'
 import {
+  CORRUPT_BACKUP_KEY,
   DEFAULT_NEW_PER_DAY,
   ProgressImportError,
   STORAGE_KEY,
@@ -65,6 +66,21 @@ describe('loadProgress and saveProgress', () => {
   })
 })
 
+describe('loadProgress, corrupt payloads', () => {
+  it('preserves the unreadable payload instead of letting it be overwritten', () => {
+    // Without this the next grade persists over the only copy of a history
+    // that a schema fix could otherwise have recovered.
+    backend.setItem(STORAGE_KEY, '{"version":1,"newPerDay":null}')
+    loadProgress(backend)
+    expect(backend.getItem(CORRUPT_BACKUP_KEY)).toBe('{"version":1,"newPerDay":null}')
+  })
+
+  it('still returns usable defaults after backing the payload up', () => {
+    backend.setItem(STORAGE_KEY, '{not json')
+    expect(loadProgress(backend)).toEqual(defaultProgress())
+  })
+})
+
 describe('parseProgress', () => {
   it('accepts progress it produced', () => {
     const progress = defaultProgress()
@@ -79,6 +95,42 @@ describe('parseProgress', () => {
   it('rejects a wrong version', () => {
     const wrong = JSON.stringify({ ...defaultProgress(), version: 2 })
     expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('rejects a non-finite newPerDay', () => {
+    // Infinity serialises to null, which is what makes this reachable at all.
+    const wrong = JSON.stringify({ ...defaultProgress(), newPerDay: null })
+    expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('rejects a negative newPerDay', () => {
+    const wrong = JSON.stringify({ ...defaultProgress(), newPerDay: -1 })
+    expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('rejects a review card whose due is null', () => {
+    // dueCards skips it forever, so accepting this drops the word silently.
+    const card = { ...introduceCard('爱'), status: 'review' as const, due: null }
+    const wrong = JSON.stringify({ ...defaultProgress(), cards: { 爱: card } })
+    expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('rejects a review card whose due is unparseable', () => {
+    const card = { ...introduceCard('爱'), status: 'review' as const, due: 'whenever' }
+    const wrong = JSON.stringify({ ...defaultProgress(), cards: { 爱: card } })
+    expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('rejects a learning card that carries a due time', () => {
+    const card = { ...introduceCard('爱'), due: '2026-08-28T10:00:00.000Z' }
+    const wrong = JSON.stringify({ ...defaultProgress(), cards: { 爱: card } })
+    expect(() => parseProgress(wrong)).toThrow(ProgressImportError)
+  })
+
+  it('accepts a well-formed review card', () => {
+    const card = { ...introduceCard('爱'), status: 'review' as const, due: '2026-08-28T10:00:00.000Z' }
+    const good = JSON.stringify({ ...defaultProgress(), cards: { 爱: card } })
+    expect(parseProgress(good).cards['爱']?.status).toBe('review')
   })
 
   it('rejects a non-object cards map', () => {

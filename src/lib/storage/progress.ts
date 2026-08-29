@@ -2,6 +2,8 @@ import type { CardState, CardStatus } from '../scheduler/types'
 import type { Progress } from './types'
 
 export const STORAGE_KEY = 'language-learner.progress.v1'
+/** Where an unreadable payload is preserved instead of being overwritten. */
+export const CORRUPT_BACKUP_KEY = 'language-learner.progress.v1.corrupt'
 export const PROGRESS_VERSION = 1
 export const DEFAULT_NEW_PER_DAY = 10
 
@@ -35,8 +37,21 @@ function isCardState(value: unknown): value is CardState {
     typeof card.ease === 'number' &&
     (card.due === null || typeof card.due === 'string') &&
     typeof card.reps === 'number' &&
-    typeof card.lapses === 'number'
+    typeof card.lapses === 'number' &&
+    hasCoherentDue(card)
   )
+}
+
+/**
+ * A review card with a null or unparseable `due` is never selected by
+ * dueCards, so it would vanish from rotation permanently. Unreachable through
+ * the app's own transitions, but reachable through import.
+ */
+function hasCoherentDue(card: Record<string, unknown>): boolean {
+  if (card.status === 'review') {
+    return typeof card.due === 'string' && !Number.isNaN(Date.parse(card.due))
+  }
+  return card.due === null
 }
 
 function validate(value: unknown): Progress {
@@ -59,8 +74,11 @@ function validate(value: unknown): Progress {
       throw new ProgressImportError(`invalid card state for "${wordId}"`)
     }
   }
-  if (typeof progress.newPerDay !== 'number') {
-    throw new ProgressImportError('newPerDay must be a number')
+  if (typeof progress.newPerDay !== 'number' || !Number.isFinite(progress.newPerDay)) {
+    throw new ProgressImportError('newPerDay must be a finite number')
+  }
+  if (progress.newPerDay < 0) {
+    throw new ProgressImportError('newPerDay must not be negative')
   }
   const introduced = progress.introduced as Record<string, unknown> | undefined
   if (
@@ -96,6 +114,14 @@ export function loadProgress(backend: Storage): Progress {
   try {
     return parseProgress(raw)
   } catch {
+    // The caller persists over this key on the next grade, so returning
+    // defaults alone would destroy the only copy of an unreadable history.
+    // Keep the bytes; a corrupt file is recoverable, an overwritten one is not.
+    try {
+      backend.setItem(CORRUPT_BACKUP_KEY, raw)
+    } catch {
+      // Best effort: a full or blocked store must not break loading.
+    }
     return defaultProgress()
   }
 }

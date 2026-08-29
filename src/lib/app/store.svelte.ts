@@ -34,6 +34,7 @@ export class AppStore {
   revealed = $state(false)
   tally = $state<Tally>(emptyTally())
   importError = $state<string | null>(null)
+  persistFailed = $state(false)
 
   #backend: Storage
   #now: () => Date
@@ -65,7 +66,13 @@ export class AppStore {
   }
 
   #persist(): void {
-    saveProgress(this.#backend, this.progress)
+    try {
+      saveProgress(this.#backend, this.progress)
+    } catch {
+      // Quota exhaustion or blocked site data must not strand the session
+      // half-advanced; the queue and screen transitions have to complete.
+      this.persistFailed = true
+    }
   }
 
   startSession(): void {
@@ -117,7 +124,13 @@ export class AppStore {
   }
 
   setNewPerDay(value: number): void {
-    this.progress.newPerDay = Math.max(0, Math.floor(value))
+    // A number input accepts "1e999", which reaches here as Infinity.
+    // JSON.stringify writes that as null, which fails validation on the next
+    // load, which resets progress to defaults, which the next grade persists
+    // over the top of. Rejecting it here stops that chain at the source.
+    if (!Number.isFinite(value)) return
+    const capped = Math.min(this.deck.length, Math.max(0, Math.floor(value)))
+    this.progress.newPerDay = capped
     this.#persist()
   }
 
