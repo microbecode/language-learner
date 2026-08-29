@@ -27,7 +27,16 @@
 {#if app.current}
   <p class="muted" data-testid="remaining">{app.remaining} left</p>
 
-  <div class="hanzi" data-testid="card-front">{app.current.word.simplified}</div>
+  {#if !app.revealed}
+    <!-- The whole card is the tap target: a phone has no space bar, and
+         aiming for a small button is the wrong gesture for a flashcard. -->
+    <button class="reveal-area" data-testid="reveal" onclick={() => app.reveal()}>
+      <span class="hanzi" data-testid="card-front">{app.current.word.simplified}</span>
+      <span class="reveal-hint">Tap to reveal</span>
+    </button>
+  {:else}
+    <div class="hanzi" data-testid="card-front">{app.current.word.simplified}</div>
+  {/if}
 
   {#if app.revealed}
     <div class="pinyin" data-testid="card-pinyin">{app.current.word.pinyin}</div>
@@ -70,10 +79,6 @@
       <button data-testid="grade-good" onclick={() => app.grade('good')}>Good</button>
       <button data-testid="grade-easy" onclick={() => app.grade('easy')}>Easy</button>
     </div>
-    <p class="muted">Keys 1–4 grade. Space reveals.</p>
-  {:else}
-    <p style="text-align: center">
-      <button data-testid="reveal" onclick={() => app.reveal()}>Reveal</button>
-    </p>
+    <p class="muted">Keys 1–4 grade.</p>
   {/if}
 {/if}

@@ -120,3 +120,20 @@ test('a malformed import is rejected and leaves progress intact', async ({ page 
   )
   expect(after).toBe(before)
 })
+
+test('tapping anywhere on the card reveals it', async ({ page }) => {
+  // A phone has no space bar, so the whole card must be the tap target rather
+  // than a small button.
+  await page.goto('/')
+  await page.evaluate(() => localStorage.clear())
+  await page.reload()
+  await page.getByTestId('start-session').click()
+
+  const card = await page.getByTestId('reveal').boundingBox()
+  expect(card).not.toBeNull()
+  expect(card!.height).toBeGreaterThan(200)
+
+  await expect(page.getByTestId('card-pinyin')).toHaveCount(0)
+  await page.mouse.click(card!.x + card!.width / 2, card!.y + card!.height / 2)
+  await expect(page.getByTestId('card-pinyin')).toBeVisible()
+})
