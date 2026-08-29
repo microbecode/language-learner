@@ -13,7 +13,9 @@
       "v",
       "vn",
       "b"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "八",
@@ -26,7 +28,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "爸爸",
@@ -38,7 +42,9 @@
     "frequency": 908,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "吧",
@@ -53,7 +59,9 @@
     "frequency": 58,
     "pos": [
       "y"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "白天",
@@ -67,7 +75,9 @@
     "frequency": 3645,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "百",
@@ -82,7 +92,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "半",
@@ -97,7 +109,9 @@
     "frequency": 727,
     "pos": [
       "m"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "包子",
@@ -109,7 +123,9 @@
     "frequency": 16315,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "杯子",
@@ -122,7 +138,9 @@
     "frequency": 6162,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "本",
@@ -146,7 +164,9 @@
       "q",
       "d",
       "n"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "边",
@@ -165,7 +185,9 @@
       "k",
       "d",
       "n"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "便宜",
@@ -179,7 +201,9 @@
       "a",
       "v",
       "an"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "病",
@@ -195,7 +219,9 @@
     "pos": [
       "n",
       "v"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "不",
@@ -208,7 +234,9 @@
     "frequency": 9,
     "pos": [
       "d"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "不客气",
@@ -222,7 +250,9 @@
       "blunt"
     ],
     "frequency": 16723,
-    "pos": []
+    "pos": [],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "不要",
@@ -235,7 +265,9 @@
     "frequency": 221,
     "pos": [
       "d"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "菜",
@@ -252,7 +284,9 @@
     "frequency": 1448,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "茶",
@@ -266,7 +300,9 @@
     "pos": [
       "n",
       "g"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "唱",
@@ -280,7 +316,9 @@
     "frequency": 813,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "超市",
@@ -292,7 +330,9 @@
     "frequency": 4427,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "车",
@@ -309,7 +349,9 @@
     "pos": [
       "n",
       "q"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "吃",
@@ -325,7 +367,9 @@
     "frequency": 142,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "出租车",
@@ -338,7 +382,9 @@
     "frequency": 2677,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "穿",
@@ -358,7 +404,9 @@
     "frequency": 430,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "打电话",
@@ -370,7 +418,9 @@
     "frequency": 1218,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "大",
@@ -390,7 +440,9 @@
       "d",
       "n",
       "g"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "大家",
@@ -405,7 +457,9 @@
     "pos": [
       "r",
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "大学",
@@ -417,7 +471,9 @@
     "frequency": 814,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "大学生",
@@ -430,7 +486,9 @@
     "frequency": 4422,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "到",
@@ -447,7 +505,9 @@
     "pos": [
       "v",
       "p"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "的",
@@ -464,7 +524,9 @@
     "pos": [
       "u",
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "弟弟",
@@ -476,7 +538,9 @@
     "frequency": 2424,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "第",
@@ -492,7 +556,9 @@
     "frequency": 962,
     "pos": [
       "m"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "点",
@@ -524,7 +590,9 @@
       "n",
       "t",
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "电话",
@@ -538,7 +606,9 @@
     "frequency": 359,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "电脑",
@@ -550,7 +620,9 @@
     "frequency": 946,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "电视",
@@ -562,7 +634,9 @@
     "frequency": 779,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "电影",
@@ -574,7 +648,9 @@
     "frequency": 546,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 20,
+    "origin": "hsk"
   },
   {
     "id": "电影院",
@@ -586,7 +662,9 @@
     "frequency": 7945,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 29,
+    "origin": "hsk"
   },
   {
     "id": "店",
@@ -599,7 +677,9 @@
     "frequency": 732,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "东西",
@@ -613,7 +693,9 @@
       "n",
       "f",
       "nr"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "都",
@@ -629,7 +711,9 @@
     "pos": [
       "d",
       "g"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "读",
@@ -642,7 +726,9 @@
     "frequency": 1013,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "读书",
@@ -657,7 +743,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "对",
@@ -683,7 +771,9 @@
       "v",
       "q",
       "a"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "对不起",
@@ -696,7 +786,9 @@
     "frequency": 1577,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "多",
@@ -717,7 +809,9 @@
       "d",
       "v",
       "g"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "多少",
@@ -731,7 +825,9 @@
     "frequency": 526,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "儿子",
@@ -743,7 +839,9 @@
     "frequency": 665,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "二",
@@ -758,7 +856,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "饭",
@@ -773,7 +873,9 @@
     "frequency": 1529,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "饭店",
@@ -786,7 +888,9 @@
     "frequency": 3998,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "房间",
@@ -798,7 +902,9 @@
     "frequency": 1357,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "飞机",
@@ -810,7 +916,9 @@
     "frequency": 1067,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "非常",
@@ -824,7 +932,9 @@
     "pos": [
       "d",
       "b"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "分",
@@ -851,7 +961,9 @@
       "g",
       "n",
       "d"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "分钟",
@@ -863,7 +975,9 @@
     "frequency": 465,
     "pos": [
       "qt"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "高兴",
@@ -879,7 +993,9 @@
     "pos": [
       "a",
       "an"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "哥哥",
@@ -891,7 +1007,9 @@
     "frequency": 1655,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 20,
+    "origin": "hsk"
   },
   {
     "id": "歌",
@@ -905,7 +1023,9 @@
     "pos": [
       "n",
       "g"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "个",
@@ -919,7 +1039,9 @@
     "pos": [
       "q",
       "g"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "给",
@@ -941,7 +1063,9 @@
       "p",
       "v",
       "u"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "工作",
@@ -959,7 +1083,9 @@
       "vn",
       "v",
       "n"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "公司",
@@ -971,7 +1097,9 @@
     "frequency": 220,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "狗",
@@ -983,7 +1111,9 @@
     "frequency": 620,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "贵",
@@ -1001,7 +1131,9 @@
       "r",
       "b",
       "g"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "国",
@@ -1014,7 +1146,9 @@
     "frequency": 1527,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "还",
@@ -1038,7 +1172,9 @@
     "pos": [
       "d",
       "v"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "孩子",
@@ -1050,7 +1186,9 @@
     "frequency": 207,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "汉语",
@@ -1062,7 +1200,9 @@
     "frequency": 13422,
     "pos": [
       "nz"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "汉字",
@@ -1078,7 +1218,9 @@
     "pos": [
       "nz",
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "好",
@@ -1100,7 +1242,9 @@
       "a",
       "d",
       "v"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "好吃",
@@ -1113,7 +1257,9 @@
     "frequency": 2484,
     "pos": [
       "a"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "好看",
@@ -1129,7 +1275,9 @@
     "frequency": 1877,
     "pos": [
       "a"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "好听",
@@ -1141,7 +1289,9 @@
     "frequency": 4355,
     "pos": [
       "a"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "好玩儿",
@@ -1156,7 +1306,9 @@
     "frequency": 23411,
     "pos": [
       "a"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "号",
@@ -1171,7 +1323,9 @@
       "q",
       "n",
       "v"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "喝",
@@ -1185,7 +1339,9 @@
     "pos": [
       "g",
       "vn"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "和",
@@ -1202,7 +1358,9 @@
       "qv",
       "g",
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "很",
@@ -1217,7 +1375,9 @@
     "frequency": 35,
     "pos": [
       "d"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "后",
@@ -1234,7 +1394,9 @@
       "f",
       "g",
       "t"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "回",
@@ -1256,7 +1418,9 @@
     "pos": [
       "v",
       "qv"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "会",
@@ -1274,7 +1438,9 @@
     "pos": [
       "v",
       "n"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "火车",
@@ -1286,7 +1452,9 @@
     "frequency": 2791,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "鸡蛋",
@@ -1299,7 +1467,9 @@
     "frequency": 3501,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "几",
@@ -1312,7 +1482,9 @@
     "pos": [
       "m",
       "d"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "家",
@@ -1330,7 +1502,9 @@
     "pos": [
       "n",
       "q"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "家人",
@@ -1344,7 +1518,9 @@
     "pos": [
       "n",
       "nr"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "见",
@@ -1362,7 +1538,9 @@
     "pos": [
       "v",
       "g"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "件",
@@ -1377,7 +1555,9 @@
     "pos": [
       "q",
       "g"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "饺子",
@@ -1390,7 +1570,9 @@
     "frequency": 11834,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "叫",
@@ -1409,7 +1591,9 @@
       "v",
       "p",
       "n"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "姐姐",
@@ -1421,7 +1605,9 @@
     "frequency": 1513,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "今年",
@@ -1433,7 +1619,9 @@
     "frequency": 851,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "今天",
@@ -1447,7 +1635,9 @@
     "frequency": 155,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "九",
@@ -1462,7 +1652,9 @@
       "m",
       "t",
       "b"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "觉得",
@@ -1475,7 +1667,9 @@
     "frequency": 161,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 20,
+    "origin": "hsk"
   },
   {
     "id": "开",
@@ -1496,7 +1690,9 @@
     "pos": [
       "v",
       "q"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "开车",
@@ -1509,7 +1705,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "看",
@@ -1525,7 +1723,9 @@
     "pos": [
       "v",
       "u"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "看病",
@@ -1539,7 +1739,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "看见",
@@ -1552,7 +1754,9 @@
     "frequency": 870,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "可以",
@@ -1569,7 +1773,9 @@
     "frequency": 58,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "课",
@@ -1587,7 +1793,9 @@
     "frequency": 1517,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "口",
@@ -1602,7 +1810,9 @@
     "pos": [
       "q",
       "n"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "块",
@@ -1617,7 +1827,9 @@
     "pos": [
       "q",
       "g"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "来",
@@ -1641,7 +1853,9 @@
       "m",
       "u",
       "y"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "老师",
@@ -1653,7 +1867,9 @@
     "frequency": 799,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "了",
@@ -1669,7 +1885,9 @@
       "y",
       "u",
       "v"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "冷",
@@ -1683,7 +1901,9 @@
       "a",
       "ad",
       "g"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "里",
@@ -1700,7 +1920,9 @@
     "pos": [
       "f",
       "q"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "两",
@@ -1717,7 +1939,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "零",
@@ -1742,7 +1966,9 @@
       "m",
       "t",
       "g"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "六",
@@ -1756,7 +1982,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "妈妈",
@@ -1770,7 +1998,9 @@
     "frequency": 527,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "吗",
@@ -1782,7 +2012,9 @@
     "frequency": 83,
     "pos": [
       "y"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "买",
@@ -1795,7 +2027,9 @@
     "frequency": 240,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "卖",
@@ -1810,7 +2044,9 @@
     "frequency": 590,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "忙",
@@ -1829,7 +2065,9 @@
       "ad",
       "g",
       "an"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "猫",
@@ -1844,7 +2082,9 @@
     "pos": [
       "n",
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "没关系",
@@ -1856,7 +2096,9 @@
     "frequency": 3541,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 20,
+    "origin": "hsk"
   },
   {
     "id": "没有",
@@ -1873,7 +2115,9 @@
     "pos": [
       "v",
       "d"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "妹妹",
@@ -1886,7 +2130,9 @@
     "frequency": 2093,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "们",
@@ -1898,7 +2144,9 @@
     "frequency": 457,
     "pos": [
       "k"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "米饭",
@@ -1910,7 +2158,9 @@
     "frequency": 10194,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "面包",
@@ -1922,7 +2172,9 @@
     "frequency": 4138,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "面条儿",
@@ -1933,7 +2185,9 @@
       "noodles"
     ],
     "frequency": 1000000,
-    "pos": []
+    "pos": [],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "名字",
@@ -1945,7 +2199,9 @@
     "frequency": 829,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "明年",
@@ -1957,7 +2213,9 @@
     "frequency": 2487,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "明天",
@@ -1969,7 +2227,9 @@
     "frequency": 469,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "哪",
@@ -1983,7 +2243,9 @@
     "pos": [
       "r",
       "y"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "哪儿",
@@ -1997,7 +2259,9 @@
     "frequency": 2534,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "哪里",
@@ -2015,7 +2279,9 @@
     "frequency": 750,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "哪些",
@@ -2029,7 +2295,9 @@
     "frequency": 3741,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "那",
@@ -2044,7 +2312,9 @@
     "pos": [
       "r",
       "c"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "那边",
@@ -2057,7 +2327,9 @@
     "frequency": 2415,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "那儿",
@@ -2069,7 +2341,9 @@
     "frequency": 3421,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "那里",
@@ -2081,7 +2355,9 @@
     "frequency": 770,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "那些",
@@ -2093,7 +2369,9 @@
     "frequency": 326,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "男",
@@ -2107,7 +2385,9 @@
     "pos": [
       "b",
       "g"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "男朋友",
@@ -2119,7 +2399,9 @@
     "frequency": 3176,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "呢",
@@ -2135,7 +2417,9 @@
     "frequency": 96,
     "pos": [
       "y"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "能",
@@ -2152,7 +2436,9 @@
     "pos": [
       "v",
       "g"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "你",
@@ -2164,7 +2450,9 @@
     "frequency": 5,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "你们",
@@ -2176,7 +2464,9 @@
     "frequency": 127,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "年",
@@ -2190,7 +2480,9 @@
       "qt",
       "t",
       "n"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "您",
@@ -2202,7 +2494,9 @@
     "frequency": 357,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "牛奶",
@@ -2214,7 +2508,9 @@
     "frequency": 2986,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "女",
@@ -2229,7 +2525,9 @@
     "pos": [
       "b",
       "g"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "女儿",
@@ -2241,7 +2539,9 @@
     "frequency": 879,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "女朋友",
@@ -2253,7 +2553,9 @@
     "frequency": 3004,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "女士",
@@ -2268,7 +2570,9 @@
     "frequency": 2155,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "朋友",
@@ -2280,7 +2584,9 @@
     "frequency": 280,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "漂亮",
@@ -2293,7 +2599,9 @@
     "frequency": 915,
     "pos": [
       "a"
-    ]
+    ],
+    "strokes": 23,
+    "origin": "hsk"
   },
   {
     "id": "苹果",
@@ -2305,7 +2613,9 @@
     "frequency": 2562,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "七",
@@ -2319,7 +2629,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "起床",
@@ -2332,7 +2644,9 @@
     "frequency": 2645,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "千",
@@ -2345,7 +2659,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "前",
@@ -2368,7 +2684,9 @@
     "pos": [
       "f",
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "钱",
@@ -2383,7 +2701,9 @@
     "pos": [
       "n",
       "nr"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "请",
@@ -2399,7 +2719,9 @@
     "frequency": 216,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "请问",
@@ -2411,7 +2733,9 @@
     "frequency": 3689,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "去",
@@ -2436,7 +2760,9 @@
     "frequency": 38,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "去年",
@@ -2448,7 +2774,9 @@
     "frequency": 933,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "热",
@@ -2469,7 +2797,9 @@
       "v",
       "ad",
       "an"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "人",
@@ -2481,7 +2811,9 @@
     "frequency": 19,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "认识",
@@ -2502,7 +2834,9 @@
       "v",
       "n",
       "vn"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "日",
@@ -2517,7 +2851,9 @@
       "g",
       "b",
       "qt"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "三",
@@ -2531,7 +2867,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "商店",
@@ -2543,7 +2881,9 @@
     "frequency": 3479,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 19,
+    "origin": "hsk"
   },
   {
     "id": "上",
@@ -2562,7 +2902,9 @@
       "f",
       "v",
       "g"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "上班",
@@ -2578,7 +2920,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "上课",
@@ -2593,7 +2937,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "上午",
@@ -2605,7 +2951,9 @@
     "frequency": 2188,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "上学",
@@ -2618,7 +2966,9 @@
     "frequency": 2965,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "少",
@@ -2639,7 +2989,9 @@
       "v",
       "d",
       "g"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "什么",
@@ -2653,7 +3005,9 @@
     "frequency": 55,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "生病",
@@ -2665,7 +3019,9 @@
     "frequency": 4336,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "十",
@@ -2679,7 +3035,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 2,
+    "origin": "hsk"
   },
   {
     "id": "时候",
@@ -2694,7 +3052,9 @@
     "frequency": 107,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "时间",
@@ -2707,7 +3067,9 @@
     "frequency": 127,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "事",
@@ -2724,7 +3086,9 @@
     "pos": [
       "n",
       "g"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "是",
@@ -2739,7 +3103,9 @@
     "frequency": 4,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "手机",
@@ -2752,7 +3118,9 @@
     "frequency": 857,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "书",
@@ -2765,7 +3133,9 @@
     "pos": [
       "n",
       "g"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "书店",
@@ -2777,7 +3147,9 @@
     "frequency": 7174,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "谁",
@@ -2790,7 +3162,9 @@
     "frequency": 142,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "水",
@@ -2807,7 +3181,9 @@
     "frequency": 335,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "水果",
@@ -2819,7 +3195,9 @@
     "frequency": 3271,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "睡",
@@ -2833,7 +3211,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "睡觉",
@@ -2846,7 +3226,9 @@
     "frequency": 944,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 22,
+    "origin": "hsk"
   },
   {
     "id": "说",
@@ -2859,7 +3241,9 @@
     "pos": [
       "v",
       "g"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "说话",
@@ -2878,7 +3262,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "四",
@@ -2892,7 +3278,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "岁",
@@ -2906,7 +3294,9 @@
     "frequency": 266,
     "pos": [
       "qt"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "他",
@@ -2921,7 +3311,9 @@
     "frequency": 10,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "他们",
@@ -2933,7 +3325,9 @@
     "frequency": 49,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "它",
@@ -2945,7 +3339,9 @@
     "frequency": 114,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "它们",
@@ -2957,7 +3353,9 @@
     "frequency": 793,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "她",
@@ -2969,7 +3367,9 @@
     "frequency": 38,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "她们",
@@ -2982,7 +3382,9 @@
     "frequency": 836,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "太",
@@ -2999,7 +3401,9 @@
     "pos": [
       "d",
       "b"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "天",
@@ -3014,7 +3418,9 @@
     "pos": [
       "qt",
       "n"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "天气",
@@ -3026,7 +3432,9 @@
     "frequency": 1675,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "听",
@@ -3038,7 +3446,9 @@
     "frequency": 190,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "听见",
@@ -3050,7 +3460,9 @@
     "frequency": 3114,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "同学",
@@ -3064,7 +3476,9 @@
     "frequency": 1828,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "外",
@@ -3079,7 +3493,9 @@
     "frequency": 489,
     "pos": [
       "f"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "外边",
@@ -3094,7 +3510,9 @@
     "frequency": 12319,
     "pos": [
       "f"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "玩",
@@ -3112,7 +3530,9 @@
     "frequency": 415,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "晚",
@@ -3128,7 +3548,9 @@
       "tg",
       "a",
       "ad"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "晚饭",
@@ -3142,7 +3564,9 @@
     "frequency": 3794,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "晚上",
@@ -3156,7 +3580,9 @@
     "frequency": 502,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "喂",
@@ -3169,7 +3595,9 @@
     "pos": [
       "v",
       "e"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "问",
@@ -3183,7 +3611,9 @@
       "v",
       "g",
       "vn"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "问题",
@@ -3198,7 +3628,9 @@
     "frequency": 109,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 21,
+    "origin": "hsk"
   },
   {
     "id": "我",
@@ -3210,7 +3642,9 @@
     "frequency": 3,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "我们",
@@ -3225,7 +3659,9 @@
     "frequency": 19,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "五",
@@ -3239,7 +3675,9 @@
     "pos": [
       "m",
       "t"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "午饭",
@@ -3251,7 +3689,9 @@
     "frequency": 4986,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "喜欢",
@@ -3264,7 +3704,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "下",
@@ -3289,7 +3731,9 @@
       "f",
       "qt",
       "g"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "下班",
@@ -3303,7 +3747,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "下课",
@@ -3319,7 +3765,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "下午",
@@ -3332,7 +3780,9 @@
     "frequency": 782,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "下雨",
@@ -3344,7 +3794,9 @@
     "frequency": 5648,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "先生",
@@ -3359,7 +3811,9 @@
     "frequency": 586,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "现在",
@@ -3376,7 +3830,9 @@
     "frequency": 77,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "想",
@@ -3392,7 +3848,9 @@
     "frequency": 44,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "小",
@@ -3408,7 +3866,9 @@
     "pos": [
       "a",
       "ad"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "小朋友",
@@ -3420,7 +3880,9 @@
     "frequency": 4536,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "小时",
@@ -3433,7 +3895,9 @@
     "pos": [
       "n",
       "q"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "小学",
@@ -3445,7 +3909,9 @@
     "frequency": 3819,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "小学生",
@@ -3459,7 +3925,9 @@
     "frequency": 12165,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "些",
@@ -3471,7 +3939,9 @@
     "frequency": 611,
     "pos": [
       "q"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "写",
@@ -3483,7 +3953,9 @@
     "frequency": 352,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "谢谢",
@@ -3497,7 +3969,9 @@
     "frequency": 520,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 24,
+    "origin": "hsk"
   },
   {
     "id": "新",
@@ -3512,7 +3986,9 @@
       "a",
       "d",
       "b"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "星期",
@@ -3526,7 +4002,9 @@
     "frequency": 1956,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 21,
+    "origin": "hsk"
   },
   {
     "id": "星期日",
@@ -3538,7 +4016,9 @@
     "frequency": 12997,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 25,
+    "origin": "hsk"
   },
   {
     "id": "星期天",
@@ -3550,7 +4030,9 @@
     "frequency": 7577,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 25,
+    "origin": "hsk"
   },
   {
     "id": "休息",
@@ -3564,7 +4046,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "学",
@@ -3581,7 +4065,9 @@
     "pos": [
       "v",
       "g"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "学生",
@@ -3594,7 +4080,9 @@
     "frequency": 651,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "学习",
@@ -3608,7 +4096,9 @@
     "pos": [
       "v",
       "vn"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "学校",
@@ -3620,7 +4110,9 @@
     "frequency": 430,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
   },
   {
     "id": "雪",
@@ -3633,7 +4125,9 @@
     "frequency": 1971,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "要",
@@ -3645,7 +4139,9 @@
     "frequency": 19,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "也",
@@ -3661,7 +4157,9 @@
       "y",
       "u",
       "b"
-    ]
+    ],
+    "strokes": 3,
+    "origin": "hsk"
   },
   {
     "id": "一",
@@ -3681,7 +4179,9 @@
       "m",
       "d",
       "t"
-    ]
+    ],
+    "strokes": 1,
+    "origin": "hsk"
   },
   {
     "id": "一半",
@@ -3693,7 +4193,9 @@
     "frequency": 1554,
     "pos": [
       "m"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "一点儿",
@@ -3708,7 +4210,9 @@
     "frequency": 6921,
     "pos": [
       "mq"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "一些",
@@ -3723,7 +4227,9 @@
     "frequency": 187,
     "pos": [
       "mq"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "衣服",
@@ -3735,7 +4241,9 @@
     "frequency": 1472,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "医生",
@@ -3747,7 +4255,9 @@
     "frequency": 827,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "医院",
@@ -3759,7 +4269,9 @@
     "frequency": 608,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 16,
+    "origin": "hsk"
   },
   {
     "id": "椅子",
@@ -3771,7 +4283,9 @@
     "frequency": 4472,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "有",
@@ -3784,7 +4298,9 @@
     "frequency": 9,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "有的",
@@ -3797,7 +4313,9 @@
     "frequency": 1300,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "有点儿",
@@ -3809,7 +4327,9 @@
       "somewhat"
     ],
     "frequency": 11175,
-    "pos": []
+    "pos": [],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "有些",
@@ -3822,7 +4342,9 @@
     "frequency": 394,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "雨",
@@ -3835,7 +4357,9 @@
     "pos": [
       "n",
       "g"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "元",
@@ -3859,7 +4383,9 @@
     "pos": [
       "q",
       "tg"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "月",
@@ -3874,7 +4400,9 @@
     "pos": [
       "n",
       "t"
-    ]
+    ],
+    "strokes": 4,
+    "origin": "hsk"
   },
   {
     "id": "再",
@@ -3890,7 +4418,9 @@
     "pos": [
       "d",
       "g"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "再见",
@@ -3903,7 +4433,9 @@
     "frequency": 2487,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "在",
@@ -3919,7 +4451,9 @@
       "p",
       "v",
       "d"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "早",
@@ -3937,7 +4471,9 @@
       "ad",
       "a",
       "tg"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "早饭",
@@ -3949,7 +4485,9 @@
     "frequency": 6748,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "早上",
@@ -3961,7 +4499,9 @@
     "frequency": 1092,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "怎么",
@@ -3975,7 +4515,9 @@
     "frequency": 128,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "怎么样",
@@ -3990,7 +4532,9 @@
     "frequency": 1367,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 22,
+    "origin": "hsk"
   },
   {
     "id": "找",
@@ -4008,7 +4552,9 @@
     "frequency": 152,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "这",
@@ -4022,7 +4568,9 @@
     "frequency": 11,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "这边",
@@ -4035,7 +4583,9 @@
     "frequency": 2774,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "这儿",
@@ -4047,7 +4597,9 @@
     "frequency": 2522,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 9,
+    "origin": "hsk"
   },
   {
     "id": "这里",
@@ -4059,7 +4611,9 @@
     "frequency": 209,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 14,
+    "origin": "hsk"
   },
   {
     "id": "这些",
@@ -4071,7 +4625,9 @@
     "frequency": 132,
     "pos": [
       "r"
-    ]
+    ],
+    "strokes": 15,
+    "origin": "hsk"
   },
   {
     "id": "真",
@@ -4090,7 +4646,9 @@
       "d",
       "a",
       "g"
-    ]
+    ],
+    "strokes": 10,
+    "origin": "hsk"
   },
   {
     "id": "正在",
@@ -4104,7 +4662,9 @@
     "frequency": 420,
     "pos": [
       "d"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "知道",
@@ -4117,7 +4677,9 @@
     "frequency": 105,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 20,
+    "origin": "hsk"
   },
   {
     "id": "只",
@@ -4133,7 +4695,9 @@
     "pos": [
       "d",
       "q"
-    ]
+    ],
+    "strokes": 5,
+    "origin": "hsk"
   },
   {
     "id": "中国",
@@ -4145,7 +4709,9 @@
     "frequency": 729,
     "pos": [
       "ns"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "中文",
@@ -4157,7 +4723,9 @@
     "frequency": 6459,
     "pos": [
       "nz"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "中午",
@@ -4170,7 +4738,9 @@
     "frequency": 2600,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 8,
+    "origin": "hsk"
   },
   {
     "id": "中学",
@@ -4182,7 +4752,9 @@
     "frequency": 4042,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 12,
+    "origin": "hsk"
   },
   {
     "id": "中学生",
@@ -4195,7 +4767,9 @@
     "frequency": 12707,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 17,
+    "origin": "hsk"
   },
   {
     "id": "住",
@@ -4212,7 +4786,9 @@
     "frequency": 280,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "桌子",
@@ -4225,7 +4801,9 @@
     "frequency": 3639,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "字",
@@ -4241,7 +4819,9 @@
     "frequency": 913,
     "pos": [
       "n"
-    ]
+    ],
+    "strokes": 6,
+    "origin": "hsk"
   },
   {
     "id": "昨天",
@@ -4253,7 +4833,9 @@
     "frequency": 557,
     "pos": [
       "t"
-    ]
+    ],
+    "strokes": 13,
+    "origin": "hsk"
   },
   {
     "id": "坐",
@@ -4269,7 +4851,9 @@
     "frequency": 435,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 7,
+    "origin": "hsk"
   },
   {
     "id": "做",
@@ -4286,7 +4870,9 @@
     "frequency": 53,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 11,
+    "origin": "hsk"
   },
   {
     "id": "做饭",
@@ -4299,6 +4885,1459 @@
     "frequency": 5512,
     "pos": [
       "v"
-    ]
+    ],
+    "strokes": 18,
+    "origin": "hsk"
+  },
+  {
+    "id": "爸",
+    "simplified": "爸",
+    "pinyin": "bà",
+    "meanings": [
+      "father, papa"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "白",
+    "simplified": "白",
+    "pinyin": "bái",
+    "meanings": [
+      "white",
+      "pure, unblemished",
+      "bright"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "包",
+    "simplified": "包",
+    "pinyin": "bāo",
+    "meanings": [
+      "wrap, pack, bundle",
+      "package"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "子",
+    "simplified": "子",
+    "pinyin": "zǐ",
+    "meanings": [
+      "offspring, child",
+      "fruit, seed of",
+      "first earthly branch"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "杯",
+    "simplified": "杯",
+    "pinyin": "bēi",
+    "meanings": [
+      "cup, glass"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "便",
+    "simplified": "便",
+    "pinyin": "biàn",
+    "meanings": [
+      "convenience, ease",
+      "expedient"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "宜",
+    "simplified": "宜",
+    "pinyin": "yí",
+    "meanings": [
+      "suitable, right, fitting, proper"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "客",
+    "simplified": "客",
+    "pinyin": "kè",
+    "meanings": [
+      "guest, traveller",
+      "customer"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "气",
+    "simplified": "气",
+    "pinyin": "qì",
+    "meanings": [
+      "steam, vapor",
+      "Kangxi radical 84"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "超",
+    "simplified": "超",
+    "pinyin": "chāo",
+    "meanings": [
+      "jump over, leap over",
+      "surpass"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "市",
+    "simplified": "市",
+    "pinyin": "shì",
+    "meanings": [
+      "market, fair",
+      "city, town",
+      "trade"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "出",
+    "simplified": "出",
+    "pinyin": "chū",
+    "meanings": [
+      "go out, send out",
+      "stand",
+      "produce"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "租",
+    "simplified": "租",
+    "pinyin": "zū",
+    "meanings": [
+      "rent, lease",
+      "rental",
+      "tax"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "打",
+    "simplified": "打",
+    "pinyin": "dǎ",
+    "meanings": [
+      "strike, hit, beat",
+      "fight",
+      "attack"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "电",
+    "simplified": "电",
+    "pinyin": "diàn",
+    "meanings": [
+      "electricity",
+      "electric",
+      "lightning"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "话",
+    "simplified": "话",
+    "pinyin": "huà",
+    "meanings": [
+      "speech, talk, language",
+      "dialect"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "生",
+    "simplified": "生",
+    "pinyin": "shēng",
+    "meanings": [
+      "life, living, lifetime",
+      "birth"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "弟",
+    "simplified": "弟",
+    "pinyin": "dì",
+    "meanings": [
+      "young brother",
+      "junior",
+      "I, me"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "脑",
+    "simplified": "脑",
+    "pinyin": "nǎo",
+    "meanings": [
+      "brain"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "视",
+    "simplified": "视",
+    "pinyin": "shì",
+    "meanings": [
+      "look at, inspect, observe, see"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "影",
+    "simplified": "影",
+    "pinyin": "yǐng",
+    "meanings": [
+      "shadow",
+      "image, reflection",
+      "photograph"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 15,
+    "origin": "component"
+  },
+  {
+    "id": "院",
+    "simplified": "院",
+    "pinyin": "yuàn",
+    "meanings": [
+      "courtyard, yard, court",
+      "school"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "东",
+    "simplified": "东",
+    "pinyin": "dōng",
+    "meanings": [
+      "east, eastern, eastward"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "西",
+    "simplified": "西",
+    "pinyin": "xī",
+    "meanings": [
+      "west(ern)",
+      "westward",
+      "occident",
+      "Kangxi radical 146"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "起",
+    "simplified": "起",
+    "pinyin": "qǐ",
+    "meanings": [
+      "rise, stand up",
+      "go up",
+      "begin"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "儿",
+    "simplified": "儿",
+    "pinyin": "ér",
+    "meanings": [
+      "son, child",
+      "Kangxi radical 10"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 2,
+    "origin": "component"
+  },
+  {
+    "id": "房",
+    "simplified": "房",
+    "pinyin": "fáng",
+    "meanings": [
+      "house, building",
+      "room",
+      "4th lunar mansion, determinative star π Scorpii"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "间",
+    "simplified": "间",
+    "pinyin": "jiān",
+    "meanings": [
+      "midpoint, space",
+      "place, locality"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "飞",
+    "simplified": "飞",
+    "pinyin": "fēi",
+    "meanings": [
+      "fly",
+      "go quickly",
+      "dart",
+      "high"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "机",
+    "simplified": "机",
+    "pinyin": "jī",
+    "meanings": [
+      "desk",
+      "machine",
+      "moment"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "非",
+    "simplified": "非",
+    "pinyin": "fēi",
+    "meanings": [
+      "not, negative, non-",
+      "oppose",
+      "Kangxi radical 175"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "常",
+    "simplified": "常",
+    "pinyin": "cháng",
+    "meanings": [
+      "common, normal, frequent, regular"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 11,
+    "origin": "component"
+  },
+  {
+    "id": "钟",
+    "simplified": "钟",
+    "pinyin": "zhōng",
+    "meanings": [
+      "clock",
+      "bell"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "高",
+    "simplified": "高",
+    "pinyin": "gāo",
+    "meanings": [
+      "high, tall",
+      "lofty, elevated",
+      "Kangxi radical 189"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "兴",
+    "simplified": "兴",
+    "pinyin": "xìng",
+    "meanings": [
+      "thrive, prosper, flourish"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "哥",
+    "simplified": "哥",
+    "pinyin": "gē",
+    "meanings": [
+      "elder brother"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "工",
+    "simplified": "工",
+    "pinyin": "gōng",
+    "meanings": [
+      "labor, work",
+      "worker, laborer"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "作",
+    "simplified": "作",
+    "pinyin": "zuò",
+    "meanings": [
+      "make",
+      "work",
+      "compose, write",
+      "act, perform"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "公",
+    "simplified": "公",
+    "pinyin": "gōng",
+    "meanings": [
+      "fair, equitable",
+      "public",
+      "duke"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "司",
+    "simplified": "司",
+    "pinyin": "sī",
+    "meanings": [
+      "take charge of, control, manage",
+      "officer"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "孩",
+    "simplified": "孩",
+    "pinyin": "hái",
+    "meanings": [
+      "baby, child",
+      "children"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "汉",
+    "simplified": "汉",
+    "pinyin": "hàn",
+    "meanings": [
+      "Chinese people",
+      "Chinese language"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "语",
+    "simplified": "语",
+    "pinyin": "yǔ",
+    "meanings": [
+      "language, words",
+      "saying, expression"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "火",
+    "simplified": "火",
+    "pinyin": "huǒ",
+    "meanings": [
+      "fire, flame",
+      "burn",
+      "anger, rage"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "鸡",
+    "simplified": "鸡",
+    "pinyin": "jī",
+    "meanings": [
+      "chicken"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "蛋",
+    "simplified": "蛋",
+    "pinyin": "dàn",
+    "meanings": [
+      "eggs",
+      "term of abuse"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 11,
+    "origin": "component"
+  },
+  {
+    "id": "饺",
+    "simplified": "饺",
+    "pinyin": "jiǎo",
+    "meanings": [
+      "stuffed dumplings"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "姐",
+    "simplified": "姐",
+    "pinyin": "jiě",
+    "meanings": [
+      "elder sister, young lady"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "今",
+    "simplified": "今",
+    "pinyin": "jīn",
+    "meanings": [
+      "now, today, modern era"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "觉",
+    "simplified": "觉",
+    "pinyin": "jué",
+    "meanings": [
+      "to wake up from sleep",
+      "conscious"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "得",
+    "simplified": "得",
+    "pinyin": "dé",
+    "meanings": [
+      "obtain, get, gain, acquire"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 11,
+    "origin": "component"
+  },
+  {
+    "id": "可",
+    "simplified": "可",
+    "pinyin": "kě",
+    "meanings": [
+      "may, can, -able",
+      "possibly"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "以",
+    "simplified": "以",
+    "pinyin": "yǐ",
+    "meanings": [
+      "by means of",
+      "thereby, therefore",
+      "consider as",
+      "in order to"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "老",
+    "simplified": "老",
+    "pinyin": "lǎo",
+    "meanings": [
+      "old, aged",
+      "experienced",
+      "Kangxi radical 125"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "师",
+    "simplified": "师",
+    "pinyin": "shī",
+    "meanings": [
+      "teacher, master, specialist"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "妈",
+    "simplified": "妈",
+    "pinyin": "mā",
+    "meanings": [
+      "mother, mama"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "没",
+    "simplified": "没",
+    "pinyin": "méi",
+    "meanings": [
+      "not, have not, none",
+      "drown, sink"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "关",
+    "simplified": "关",
+    "pinyin": "guān",
+    "meanings": [
+      "frontier pass",
+      "close",
+      "relation"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "系",
+    "simplified": "系",
+    "pinyin": "xì",
+    "meanings": [
+      "system",
+      "line, link, connection"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "妹",
+    "simplified": "妹",
+    "pinyin": "mèi",
+    "meanings": [
+      "younger sister"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "米",
+    "simplified": "米",
+    "pinyin": "mǐ",
+    "meanings": [
+      "hulled or husked uncooked rice"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "面",
+    "simplified": "面",
+    "pinyin": "miàn",
+    "meanings": [
+      "face",
+      "surface",
+      "plane",
+      "side, dimension",
+      "Kangxi radical 176"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "条",
+    "simplified": "条",
+    "pinyin": "tiáo",
+    "meanings": [
+      "clause, condition",
+      "string, stripe"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "名",
+    "simplified": "名",
+    "pinyin": "míng",
+    "meanings": [
+      "name, rank, title, position"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "明",
+    "simplified": "明",
+    "pinyin": "míng",
+    "meanings": [
+      "bright, light, brilliant",
+      "clear"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "朋",
+    "simplified": "朋",
+    "pinyin": "péng",
+    "meanings": [
+      "friend, pal, acquaintance"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "友",
+    "simplified": "友",
+    "pinyin": "yǒu",
+    "meanings": [
+      "friend, companion",
+      "fraternity"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "牛",
+    "simplified": "牛",
+    "pinyin": "niú",
+    "meanings": [
+      "cow, ox, bull",
+      "Kangxi radical 93",
+      "9th lunar mansion, determinative star β Capricorni (Dabih)"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "奶",
+    "simplified": "奶",
+    "pinyin": "nǎi",
+    "meanings": [
+      "milk",
+      "woman's breasts",
+      "nurse"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "士",
+    "simplified": "士",
+    "pinyin": "shì",
+    "meanings": [
+      "scholar, gentleman",
+      "soldier"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "漂",
+    "simplified": "漂",
+    "pinyin": "piào",
+    "meanings": [
+      "float, drift",
+      "tossed about"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 14,
+    "origin": "component"
+  },
+  {
+    "id": "亮",
+    "simplified": "亮",
+    "pinyin": "liàng",
+    "meanings": [
+      "bright, brilliant, radiant, light"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "苹",
+    "simplified": "苹",
+    "pinyin": "píng",
+    "meanings": [
+      "artemisia",
+      "duckweed",
+      "apple"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "果",
+    "simplified": "果",
+    "pinyin": "guǒ",
+    "meanings": [
+      "fruit",
+      "result"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "床",
+    "simplified": "床",
+    "pinyin": "chuáng",
+    "meanings": [
+      "bed, couch",
+      "framework, chassis"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "认",
+    "simplified": "认",
+    "pinyin": "rèn",
+    "meanings": [
+      "recognize, know, understand"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "识",
+    "simplified": "识",
+    "pinyin": "shí",
+    "meanings": [
+      "recognize, understand, know"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "商",
+    "simplified": "商",
+    "pinyin": "shāng",
+    "meanings": [
+      "commerce, business, trade"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 11,
+    "origin": "component"
+  },
+  {
+    "id": "班",
+    "simplified": "班",
+    "pinyin": "bān",
+    "meanings": [
+      "class, group, grade",
+      "squad",
+      "job"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "午",
+    "simplified": "午",
+    "pinyin": "wǔ",
+    "meanings": [
+      "seventh earthly branch"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "什",
+    "simplified": "什",
+    "pinyin": "shén",
+    "meanings": [
+      "file of ten soldiers",
+      "mixed, miscellaneous"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "么",
+    "simplified": "么",
+    "pinyin": "me",
+    "meanings": [
+      "interrogative particle",
+      "small"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "时",
+    "simplified": "时",
+    "pinyin": "shí",
+    "meanings": [
+      "time, season",
+      "era, age, period"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "候",
+    "simplified": "候",
+    "pinyin": "hòu",
+    "meanings": [
+      "wait",
+      "expect",
+      "visit",
+      "greet"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "手",
+    "simplified": "手",
+    "pinyin": "shǒu",
+    "meanings": [
+      "hand"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "同",
+    "simplified": "同",
+    "pinyin": "tóng",
+    "meanings": [
+      "same, similar",
+      "together with"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "题",
+    "simplified": "题",
+    "pinyin": "tí",
+    "meanings": [
+      "forehead",
+      "title, headline",
+      "theme"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 15,
+    "origin": "component"
+  },
+  {
+    "id": "喜",
+    "simplified": "喜",
+    "pinyin": "xǐ",
+    "meanings": [
+      "like, love, enjoy",
+      "joyful thing"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "欢",
+    "simplified": "欢",
+    "pinyin": "huān",
+    "meanings": [
+      "happy, pleased, glad",
+      "joy",
+      "enjoy"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "先",
+    "simplified": "先",
+    "pinyin": "xiān",
+    "meanings": [
+      "first, former, previous"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "现",
+    "simplified": "现",
+    "pinyin": "xiàn",
+    "meanings": [
+      "appear, manifest, become visible"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "谢",
+    "simplified": "谢",
+    "pinyin": "xiè",
+    "meanings": [
+      "thank",
+      "decline"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "星",
+    "simplified": "星",
+    "pinyin": "xīng",
+    "meanings": [
+      "a star, planet",
+      "any point of light",
+      "25th lunar mansion, determinative star α Hydrae (Alphard)"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "期",
+    "simplified": "期",
+    "pinyin": "qī",
+    "meanings": [
+      "period of time",
+      "date",
+      "time limit"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "休",
+    "simplified": "休",
+    "pinyin": "xiū",
+    "meanings": [
+      "rest, stop",
+      "retire",
+      "do not!"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "息",
+    "simplified": "息",
+    "pinyin": "xī",
+    "meanings": [
+      "rest, put stop to, end, cease"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "习",
+    "simplified": "习",
+    "pinyin": "xí",
+    "meanings": [
+      "practice",
+      "flapping wings"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 3,
+    "origin": "component"
+  },
+  {
+    "id": "校",
+    "simplified": "校",
+    "pinyin": "xiào",
+    "meanings": [
+      "school",
+      "military field officer"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "衣",
+    "simplified": "衣",
+    "pinyin": "yī",
+    "meanings": [
+      "clothes, clothing",
+      "cover, skin",
+      "Kangxi radical 145"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 6,
+    "origin": "component"
+  },
+  {
+    "id": "服",
+    "simplified": "服",
+    "pinyin": "fú",
+    "meanings": [
+      "clothes",
+      "wear, dress"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "医",
+    "simplified": "医",
+    "pinyin": "yī",
+    "meanings": [
+      "cure, heal",
+      "doctor, medical"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 7,
+    "origin": "component"
+  },
+  {
+    "id": "椅",
+    "simplified": "椅",
+    "pinyin": "yǐ",
+    "meanings": [
+      "chair, seat"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "怎",
+    "simplified": "怎",
+    "pinyin": "zěn",
+    "meanings": [
+      "what? why? how?"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
+  },
+  {
+    "id": "样",
+    "simplified": "样",
+    "pinyin": "yàng",
+    "meanings": [
+      "shape, form, pattern, style"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "正",
+    "simplified": "正",
+    "pinyin": "zhèng",
+    "meanings": [
+      "right, proper, correct"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 5,
+    "origin": "component"
+  },
+  {
+    "id": "知",
+    "simplified": "知",
+    "pinyin": "zhī",
+    "meanings": [
+      "know, perceive, comprehend"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 8,
+    "origin": "component"
+  },
+  {
+    "id": "道",
+    "simplified": "道",
+    "pinyin": "dào",
+    "meanings": [
+      "path, road, street",
+      "method, way"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 12,
+    "origin": "component"
+  },
+  {
+    "id": "中",
+    "simplified": "中",
+    "pinyin": "zhōng",
+    "meanings": [
+      "central",
+      "center, middle",
+      "in the midst of",
+      "hit (target)",
+      "attain"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "文",
+    "simplified": "文",
+    "pinyin": "wén",
+    "meanings": [
+      "literature, culture, writing"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 4,
+    "origin": "component"
+  },
+  {
+    "id": "桌",
+    "simplified": "桌",
+    "pinyin": "zhuō",
+    "meanings": [
+      "table, desk, stand"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 10,
+    "origin": "component"
+  },
+  {
+    "id": "昨",
+    "simplified": "昨",
+    "pinyin": "zuó",
+    "meanings": [
+      "yesterday",
+      "in former times, past"
+    ],
+    "frequency": 99999,
+    "pos": [],
+    "strokes": 9,
+    "origin": "component"
   }
 ]

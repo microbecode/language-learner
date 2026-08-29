@@ -21,7 +21,7 @@ function entry(overrides: Partial<SourceEntry> = {}): SourceEntry {
 
 describe('mapSourceEntries', () => {
   it('maps a source entry to a Word using the first form', () => {
-    expect(mapSourceEntries([entry()])).toEqual([
+    expect(mapSourceEntries([entry()], () => 10)).toEqual([
       {
         id: '爱',
         simplified: '爱',
@@ -29,6 +29,8 @@ describe('mapSourceEntries', () => {
         meanings: ['to love; to be fond of', 'affection'],
         frequency: 130,
         pos: ['v', 'vn'],
+        strokes: 10,
+        origin: 'hsk',
       },
     ])
   })
@@ -91,6 +93,12 @@ describe('mapSourceEntries', () => {
 
   it('drops entries with no forms', () => {
     expect(mapSourceEntries([entry({ forms: [] })])).toEqual([])
+  })
+
+  it('totals the strokes across every character of a word', () => {
+    const school = entry({ simplified: '学校' })
+    const strokes = (c: string) => (c === '学' ? 8 : 10)
+    expect(mapSourceEntries([school], strokes)[0]?.strokes).toBe(18)
   })
 
   it('preserves input order', () => {

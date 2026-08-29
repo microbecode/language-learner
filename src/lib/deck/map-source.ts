@@ -18,7 +18,10 @@ export function preferredForm(forms: SourceForm[]): SourceForm | undefined {
   return useful ?? forms[0]
 }
 
-export function mapSourceEntries(entries: SourceEntry[]): Word[] {
+export function mapSourceEntries(
+  entries: SourceEntry[],
+  strokesOf: (character: string) => number = () => 0,
+): Word[] {
   const words: Word[] = []
   for (const entry of entries) {
     const form = preferredForm(entry.forms)
@@ -30,6 +33,8 @@ export function mapSourceEntries(entries: SourceEntry[]): Word[] {
       meanings: form.meanings,
       frequency: entry.frequency,
       pos: entry.pos,
+      strokes: [...entry.simplified].reduce((sum, c) => sum + strokesOf(c), 0),
+      origin: 'hsk',
     })
   }
   return words

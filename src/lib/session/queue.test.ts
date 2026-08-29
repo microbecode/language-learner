@@ -26,7 +26,16 @@ function fixedRng(values: number[]): () => number {
 }
 
 function word(id: string, frequency: number): Word {
-  return { id, simplified: id, pinyin: 'x', meanings: ['x'], frequency, pos: [] }
+  return {
+    id,
+    simplified: id,
+    pinyin: 'x',
+    meanings: ['x'],
+    frequency,
+    pos: [],
+    strokes: 1,
+    origin: 'hsk',
+  }
 }
 
 const DECK: Word[] = [word('的', 1), word('我', 2), word('爱', 3), word('学校', 4)]

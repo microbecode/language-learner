@@ -53,6 +53,13 @@ button:hover {
   margin: 0.5rem 0 2rem;
 }
 
+.origin-note,
+.appears-in {
+  text-align: center;
+  margin: -1rem 0 1.5rem;
+  font-size: 0.85rem;
+}
+
 .components {
   list-style: none;
   margin: 0 0 1.5rem;

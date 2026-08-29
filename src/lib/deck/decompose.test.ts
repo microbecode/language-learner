@@ -3,7 +3,16 @@ import { buildCharacterIndex, decomposeWord } from './decompose'
 import type { Word } from './types'
 
 function word(simplified: string, meanings: string[], frequency = 1): Word {
-  return { id: simplified, simplified, pinyin: 'x', meanings, frequency, pos: [] }
+  return {
+    id: simplified,
+    simplified,
+    pinyin: 'x',
+    meanings,
+    frequency,
+    pos: [],
+    strokes: 1,
+    origin: 'hsk',
+  }
 }
 
 const DECK: Word[] = [

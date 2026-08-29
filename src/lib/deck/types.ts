@@ -7,6 +7,12 @@ export type Word = {
   meanings: string[]
   frequency: number
   pos: string[]
+  /** Total strokes across the word's characters; the ordering's measure of how
+   * much there is to see and write. */
+  strokes: number
+  /** Whether this card comes from the HSK list, or is a character the list's
+   * words are built from but never teaches on its own. */
+  origin: 'hsk' | 'component'
 }
 
 export type SourceForm = {

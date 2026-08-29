@@ -1,5 +1,10 @@
 import { loadDeck } from '../deck/deck'
-import { buildCharacterIndex, decomposeWord, type Component } from '../deck/decompose'
+import {
+  buildCharacterIndex,
+  decomposeWord,
+  wordsContaining,
+  type Component,
+} from '../deck/decompose'
 import type { Word } from '../deck/types'
 import { schedule } from '../scheduler/schedule'
 import type { Grade } from '../scheduler/types'
@@ -71,6 +76,12 @@ export class AppStore {
   get currentComponents(): Component[] {
     const card = this.current
     return card ? decomposeWord(card.word, this.#characterIndex) : []
+  }
+
+  /** The compounds the current character appears in; empty for a compound. */
+  get currentAppearsIn(): string[] {
+    const card = this.current
+    return card ? wordsContaining(card.word, this.#characterIndex) : []
   }
 
   #persist(): void {

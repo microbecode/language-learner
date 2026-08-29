@@ -44,10 +44,14 @@ export function buildCharacterIndex(deck: Word[]): CharacterIndex {
 /**
  * Teaching order: the simplest, most reusable things first.
  *
- * Single characters lead, ordered by how many of the deck's compound words
- * they unlock — learning 电 pays off across 电话, 电脑, 电视, 电影 and 电影院.
- * Compounds follow, shorter before longer, each tier broken by frequency so
- * the commonest items still come first within it.
+ * Single characters lead, ordered by stroke count, because that is what
+ * "simple" means for a character you have to recognise and write — 人 is two
+ * strokes, 们 is five, and 们 being reused more often does not make it easier
+ * to see. Stroke ties break towards the character that unlocks more compounds,
+ * so 电 (five strokes, five compounds) precedes an equally simple character
+ * that stands alone.
+ *
+ * Compounds follow, shortest first, then by total strokes, then by frequency.
  */
 export function sortForTeaching(deck: Word[]): Word[] {
   const index = buildCharacterIndex(deck)
@@ -57,14 +61,27 @@ export function sortForTeaching(deck: Word[]): Word[] {
     const bSingle = b.simplified.length === 1
     if (aSingle !== bSingle) return aSingle ? -1 : 1
     if (aSingle) {
+      const byStrokes = a.strokes - b.strokes
+      if (byStrokes !== 0) return byStrokes
       const byYield = unlocks(b) - unlocks(a)
       if (byYield !== 0) return byYield
     } else {
       const byLength = a.simplified.length - b.simplified.length
       if (byLength !== 0) return byLength
+      const byStrokes = a.strokes - b.strokes
+      if (byStrokes !== 0) return byStrokes
     }
     return a.frequency - b.frequency
   })
+}
+
+/**
+ * The compounds a single character appears in — the payoff for learning it.
+ * Empty for a compound, which shows its parts instead.
+ */
+export function wordsContaining(word: Word, index: CharacterIndex): string[] {
+  if (word.simplified.length > 1) return []
+  return index.get(word.simplified)?.words ?? []
 }
 
 /** The parts a word is built from. Empty for single-character words. */

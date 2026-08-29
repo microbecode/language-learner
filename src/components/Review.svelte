@@ -35,6 +35,18 @@
       {app.current.word.meanings.join('; ')}
     </div>
 
+    {#if app.current.word.origin === 'component'}
+      <p class="muted origin-note" data-testid="card-origin">
+        A character the HSK list uses but never teaches on its own.
+      </p>
+    {/if}
+
+    {#if app.currentAppearsIn.length > 0}
+      <p class="muted appears-in" data-testid="card-appears-in">
+        appears in {app.currentAppearsIn.join(' · ')}
+      </p>
+    {/if}
+
     {#if app.currentComponents.length > 0}
       <ul class="components" data-testid="card-components">
         {#each app.currentComponents as part}
